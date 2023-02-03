@@ -1,0 +1,94 @@
+/* GIỚI THIỆU PAGE*/
+.intro {
+  font-size: 16.39px !important;
+  line-height: 19.67px !important;
+  padding-top: 73px;
+  padding-bottom: 50px;
+}
+.pl-48 {
+  padding-left: 48px !important;
+}
+.pr-48 {
+  padding-right: 48px !important;
+}
+.intro-title {
+  color: var(--orange2);
+  font-size: 31.61px;
+}
+.intro-border {
+  margin-top: 11px;
+  margin-bottom: 15px;
+  width: 89px;
+  height: 5px;
+  background-color: var(--orange3);
+  border-radius: 15px;
+}
+.intro-col {
+  color: white;
+  font-size: 16.39px !important;
+  line-height: 19.67px !important;
+  background-image: linear-gradient(to right, #0db04b, #037762);
+}
+.intro-flex-item p {
+  opacity: 0.8;
+}
+.flex-title {
+  font-size: 19.91px !important;
+  line-height: 23.89px !important;
+}
+
+.flex-des {
+  padding-top: 9px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-left: 43px;
+  padding-right: 43px;
+}
+.intro-flex-item {
+  padding-left: 14px;
+  padding-right: 14px;
+}
+.col-img {
+  padding-top: 10px;
+  /* height: 70px; */
+}
+.flex-border {
+  position: relative;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  height: 100%;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 14px;
+}
+.flex-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+.flex-border::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -2px;
+  background-color: white;
+  width: 3px;
+  height: 30%;
+}
+
+.flex-border::after {
+  content: "";
+  position: absolute;
+  right: -2px;
+  top: 0;
+  background-color: white;
+  width: 3px;
+  height: 30%;
+}
+.intro-sodo {
+  padding-top: 40px;
+  padding-bottom: 35px;
+}
+/* / */

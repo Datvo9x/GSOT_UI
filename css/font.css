@@ -1,0 +1,44 @@
+@font-face{
+    font-family:SFDisplay-Thin;
+    src: url(../font/SFUIDisplay/SFUIDisplay-Thin.otf);
+}
+@font-face{
+    font-family:SFDisplay-Bold;
+    src: url(../font/SFUIDisplay/SFUIDisplay-Bold.ttf);
+}
+@font-face{
+    font-family:SFDisplay-Black;
+    src: url(../font/SFUIDisplay/SFUIDisplay-Black.otf);
+}
+@font-face{
+    font-family:SFDisplay-Medium;
+    src: url(../font/SFUIDisplay/SFUIDisplay-Medium.otf);
+}
+@font-face{
+    font-family:SFDisplay-Heavy;
+    src: url(../font/SFUIDisplay/SFUIDisplay-Heavy.otf);
+}
+@font-face{
+    font-family:SFDisplay-Light;
+    src: url(../font/SFUIDisplay/SFUIDisplay-Light.ttf);
+}
+@font-face{
+    font-family:SFDisplay-Regular;
+    src: url(../font/SFUIDisplay/SFUIDisplay-Regular.otf);
+}
+@font-face{
+    font-family:SFDisplay-SemiBold;
+    src: url(../font/SFUIDisplay/SFUIDisplay-Semibold.otf);
+}
+@font-face{
+    font-family:SFDisplay-UltraLight;
+    src: url(../font/SFUIDisplay/SFUIDisplay-Ultralight.otf);
+}
+@font-face{
+    font-family:samsung-bold;
+    src: url(../font/samsung-sharp-sans-cufonfonts/samsungsharpsans-bold.otf);
+}
+@font-face{
+    font-family:samsung-medium;
+    src: url(../font/samsung-sharp-sans-cufonfonts/samsungsharpsans-medium.otf);
+}

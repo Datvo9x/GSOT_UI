@@ -1,0 +1,2018 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\font.css
+FileModTime:1596005093
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-Bold
+FamilyName:SF UI  Text
+StyleName:Bold
+FullName:SF UI  Text Bold
+MenuName:SF UI  Text 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:155068
+FileModTime:1434000012
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-BoldG1
+FamilyName:SF UI  Text
+StyleName:Bold G1
+FullName:SF UI  Text Bold G1
+MenuName:SF UI  Text G 4
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-BoldG1.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:156736
+FileModTime:1434000012
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-BoldG2
+FamilyName:SF UI  Text
+StyleName:Bold G2
+FullName:SF UI  Text Bold G2
+MenuName:SF UI  Text G 6
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-BoldG2.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:156832
+FileModTime:1434000012
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-BoldG3
+FamilyName:SF UI  Text
+StyleName:Bold G3
+FullName:SF UI  Text Bold G3
+MenuName:SF UI  Text G 8
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-BoldG3.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:156928
+FileModTime:1434000012
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-BoldItalicG1
+FamilyName:SF UI  Text
+StyleName:Bold Italic G1
+FullName:SF UI  Text Bold Italic G1
+MenuName:SF UI  Text G 5
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-BoldItalicG1.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:161576
+FileModTime:1434000012
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-BoldItalicG2
+FamilyName:SF UI  Text
+StyleName:Bold Italic G2
+FullName:SF UI  Text Bold Italic G2
+MenuName:SF UI  Text G 7
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-BoldItalicG2.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:162072
+FileModTime:1434000012
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-BoldItalicG3
+FamilyName:SF UI  Text
+StyleName:Bold Italic G3
+FullName:SF UI  Text Bold Italic G3
+MenuName:SF UI  Text G 9
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-BoldItalicG3.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:162280
+FileModTime:1434000014
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-Heavy
+FamilyName:SF UI  Text
+StyleName:Heavy
+FullName:SF UI  Text Heavy
+MenuName:SF UI  Text ExtBd
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:157376
+FileModTime:1434000006
+WeightClass:800
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-HeavyItalic
+FamilyName:SF UI  Text
+StyleName:Heavy Italic
+FullName:SF UI  Text Heavy Italic
+MenuName:SF UI  Text ExtBd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-HeavyItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:162752
+FileModTime:1434000006
+WeightClass:265
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-Italic
+FamilyName:SF UI  Text
+StyleName:Italic
+FullName:SF UI  Text Italic
+MenuName:SF UI  Text
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:145140
+FileModTime:1434000008
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-ItalicG1
+FamilyName:SF UI  Text
+StyleName:Italic G1
+FullName:SF UI  Text Italic G1
+MenuName:SF UI  Text G
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-ItalicG1.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:152544
+FileModTime:1434000010
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-ItalicG2
+FamilyName:SF UI  Text
+StyleName:Italic G2
+FullName:SF UI  Text Italic G2
+MenuName:SF UI  Text G 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-ItalicG2.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:153752
+FileModTime:1434000010
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-ItalicG3
+FamilyName:SF UI  Text
+StyleName:Italic G3
+FullName:SF UI  Text Italic G3
+MenuName:SF UI  Text News G
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-ItalicG3.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:153504
+FileModTime:1434000010
+WeightClass:450
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-Light
+FamilyName:SF UI  Text
+StyleName:Light
+FullName:SF UI  Text Light
+MenuName:SF UI  Text Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:149188
+FileModTime:1434000008
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-LightItalic
+FamilyName:SF UI  Text
+StyleName:Light Italic
+FullName:SF UI  Text Light Italic
+MenuName:SF UI  Text SemLt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:154104
+FileModTime:1434000008
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-Medium
+FamilyName:SF UI  Text
+StyleName:Medium
+FullName:SF UI  Text Medium
+MenuName:SF UI  Text Med
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:153804
+FileModTime:1434000010
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-MediumItalic
+FamilyName:SF UI  Text
+StyleName:Medium Italic
+FullName:SF UI  Text Medium Italic
+MenuName:SF UI  Text SemLt 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:159624
+FileModTime:1434000008
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-Regular
+FamilyName:SF UI  Text
+StyleName:Regular
+FullName:SF UI  Text Regular
+MenuName:SF UI  Text
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:141316
+FileModTime:1434000008
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-RegularG1
+FamilyName:SF UI  Text
+StyleName:Regular G1
+FullName:SF UI  Text Regular G1
+MenuName:SF UI  Text G
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-RegularG1.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:145524
+FileModTime:1434000008
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-RegularG2
+FamilyName:SF UI  Text
+StyleName:Regular G2
+FullName:SF UI  Text Regular G2
+MenuName:SF UI  Text G 3
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-RegularG2.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:148360
+FileModTime:1434000010
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-RegularG3
+FamilyName:SF UI  Text
+StyleName:Regular G3
+FullName:SF UI  Text Regular G3
+MenuName:SF UI  Text News G
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-RegularG3.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:148788
+FileModTime:1434000010
+WeightClass:450
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-Semibold
+FamilyName:SF UI  Text
+StyleName:Semibold
+FullName:SF UI  Text Semibold
+MenuName:SF UI  Text SemBd
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:154432
+FileModTime:1434000008
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIText-SemiboldItalic
+FamilyName:SF UI  Text
+StyleName:Semibold Italic
+FullName:SF UI  Text Semibold Italic
+MenuName:SF UI  Text SemBd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIText\SFUIText-SemiboldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:159900
+FileModTime:1434000008
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIDisplay-Black
+FamilyName:SF UI Display
+StyleName:Black
+FullName:SF UI Display Black
+MenuName:SF UI Display Bd
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIDisplay\SFUIDisplay-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:135680
+FileModTime:1433999620
+WeightClass:250
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFUIDisplay-Bold
+FamilyName:SF UI Display
+StyleName:Bold
+FullName:SFUIDisplay-Bold
+MenuName:SF UI Display
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIDisplay\SFUIDisplay-Bold.ttf
+DataFormat:sfntData
+FileLength:182000
+FileModTime:1435425534
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIDisplay-Heavy
+FamilyName:SF UI Display
+StyleName:Heavy
+FullName:SF UI Display Heavy
+MenuName:SF UI Display ExtBd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIDisplay\SFUIDisplay-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:144712
+FileModTime:1433999622
+WeightClass:800
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFUIDisplay-Light
+FamilyName:SF UI Display
+StyleName:Light
+FullName:SFUIDisplay-Light
+MenuName:SF UI Display Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIDisplay\SFUIDisplay-Light.ttf
+DataFormat:sfntData
+FileLength:178800
+FileModTime:1435424046
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIDisplay-Medium
+FamilyName:SF UI Display
+StyleName:Medium
+FullName:SF UI Display Medium
+MenuName:SF UI Display Med
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIDisplay\SFUIDisplay-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:140916
+FileModTime:1433999622
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIDisplay-Regular
+FamilyName:SF UI Display
+StyleName:Regular
+FullName:SF UI Display Regular
+MenuName:SF UI Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIDisplay\SFUIDisplay-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:128224
+FileModTime:1433999622
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIDisplay-Semibold
+FamilyName:SF UI Display
+StyleName:Semibold
+FullName:SF UI Display Semibold
+MenuName:SF UI Display SemBd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIDisplay\SFUIDisplay-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:141192
+FileModTime:1433999622
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIDisplay-Thin
+FamilyName:SF UI Display
+StyleName:Thin
+FullName:SF UI Display Thin
+MenuName:SF UI Display ExtLt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIDisplay\SFUIDisplay-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:133688
+FileModTime:1433999622
+WeightClass:265
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFUIDisplay-Ultralight
+FamilyName:SF UI Display
+StyleName:Ultralight
+FullName:SF UI Display Ultralight
+MenuName:SF UI Display UltrLt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\SFUIDisplay\SFUIDisplay-Ultralight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:133140
+FileModTime:1433999620
+WeightClass:250
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\San-Francisco\__MACOSX\._San Francisco
+FileModTime:1573994864
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\San-Francisco\San Francisco\.DS_Store
+FileModTime:1573994868
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\San-Francisco\San Francisco\gyBmifHIG0o.jpg
+FileModTime:1435427018
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\San-Francisco\San Francisco\sSHqzkTAYBk.jpg
+FileModTime:1435427022
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\San-Francisco\San Francisco\TsvqTO1iuDs.jpg
+FileModTime:1435427014
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\San-Francisco\San Francisco\wX3Ai0SkNF0.jpg
+FileModTime:1435427030
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\San-Francisco\San Francisco\xdZ_0d2NyI4.jpg
+FileModTime:1435427026
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\San-Francisco\San Francisco\YSd16fmmPy0.jpg
+FileModTime:1435427008
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SamsungSharpSans-Bold
+FamilyName:Samsung Sharp Sans
+StyleName:Bold
+FullName:Samsung Sharp Sans Bold
+MenuName:Samsung Sharp Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\samsung-sharp-sans-cufonfonts\samsungsharpsans-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:148384
+FileModTime:1546862656
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SamsungSharpSans-Medium
+FamilyName:Samsung Sharp Sans
+StyleName:Medium
+FullName:Samsung Sharp Sans Medium
+MenuName:Samsung Sharp Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\samsung-sharp-sans-cufonfonts\samsungsharpsans-medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:146236
+FileModTime:1546862656
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SamsungSharpSans
+FamilyName:Samsung Sharp Sans
+StyleName:Regular
+FullName:Samsung Sharp Sans
+MenuName:Samsung Sharp Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\samsung-sharp-sans-cufonfonts\samsungsharpsans.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:145216
+FileModTime:1546862656
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BlackCondIt
+FamilyName:Myriad Pro
+StyleName:Black Condensed Italic
+FullName:Myriad Pro Black Condensed Italic
+MenuName:Myriad Pro Black Cond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BLACKCONDIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94460
+FileModTime:1410829440
+WeightClass:900
+WidthClass:3
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BlackCond
+FamilyName:Myriad Pro
+StyleName:Black Condensed
+FullName:Myriad Pro Black Condensed
+MenuName:Myriad Pro Black Cond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BLACKCOND_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:95916
+FileModTime:1410829440
+WeightClass:900
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BlackIt
+FamilyName:Myriad Pro
+StyleName:Black Italic
+FullName:Myriad Pro Black Italic
+MenuName:Myriad Pro Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BLACKIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:102232
+FileModTime:1410829440
+WeightClass:900
+WidthClass:5
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BlackSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Black SemiCondensed Italic
+FullName:Myriad Pro Black SemiCondensed Italic
+MenuName:Myriad Pro Black SemiCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BLACKSEMICNIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:102960
+FileModTime:1410829440
+WeightClass:900
+WidthClass:4
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BlackSemiCn
+FamilyName:Myriad Pro
+StyleName:Black SemiCondensed
+FullName:Myriad Pro Black SemiCondensed
+MenuName:Myriad Pro Black SemiCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BLACKSEMICN_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:98776
+FileModTime:1410829440
+WeightClass:900
+WidthClass:4
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BlackSemiExtIt
+FamilyName:Myriad Pro
+StyleName:Black SemiExtended Italic
+FullName:Myriad Pro Black SemiExtended Italic
+MenuName:Myriad Pro Black SemiExt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BLACKSEMIEXTIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:95516
+FileModTime:1410829440
+WeightClass:900
+WidthClass:6
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BlackSemiExt
+FamilyName:Myriad Pro
+StyleName:Black SemiExtended
+FullName:Myriad Pro Black SemiExtended
+MenuName:Myriad Pro Black SemiExt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BLACKSEMIEXT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94204
+FileModTime:1410829440
+WeightClass:900
+WidthClass:6
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Black
+FamilyName:Myriad Pro
+StyleName:Black
+FullName:Myriad Pro Black
+MenuName:Myriad Pro Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BLACK_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97944
+FileModTime:1410829440
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+FullName:Myriad Pro Bold
+MenuName:Myriad Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:103472
+FileModTime:1410829440
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldCond
+FamilyName:Myriad Pro
+StyleName:Bold Condensed
+FullName:Myriad Pro Bold Condensed
+MenuName:Myriad Pro Cond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BOLDCOND.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101012
+FileModTime:1410829440
+WeightClass:700
+WidthClass:3
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldCondIt
+FamilyName:Myriad Pro
+StyleName:Bold Condensed Italic
+FullName:Myriad Pro Bold Condensed Italic
+MenuName:Myriad Pro Cond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BOLDCONDIT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:104052
+FileModTime:1410829440
+WeightClass:700
+WidthClass:3
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldIt
+FamilyName:Myriad Pro
+StyleName:Bold Italic
+FullName:Myriad Pro Bold Italic
+MenuName:Myriad Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BOLDIT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:107056
+FileModTime:1410829440
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Bold SemiCondensed Italic
+FullName:Myriad Pro Bold SemiCondensed Italic
+MenuName:Myriad Pro SemiCond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BOLDSEMICNIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:102584
+FileModTime:1410829440
+WeightClass:700
+WidthClass:4
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiCn
+FamilyName:Myriad Pro
+StyleName:Bold SemiCondensed
+FullName:Myriad Pro Bold SemiCondensed
+MenuName:Myriad Pro SemiCond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BOLDSEMICN_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97288
+FileModTime:1410829440
+WeightClass:700
+WidthClass:4
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiExtIt
+FamilyName:Myriad Pro
+StyleName:Bold SemiExtended Italic
+FullName:Myriad Pro Bold SemiExtended Italic
+MenuName:Myriad Pro SemiExt
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BOLDSEMIEXTIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:100792
+FileModTime:1410829440
+WeightClass:700
+WidthClass:6
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldSemiExt
+FamilyName:Myriad Pro
+StyleName:Bold SemiExtended
+FullName:Myriad Pro Bold SemiExtended
+MenuName:Myriad Pro SemiExt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-BOLDSEMIEXT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97904
+FileModTime:1410829440
+WeightClass:700
+WidthClass:6
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Cond
+FamilyName:Myriad Pro
+StyleName:Condensed
+FullName:Myriad Pro Condensed
+MenuName:Myriad Pro Cond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-COND.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:98776
+FileModTime:1410829440
+WeightClass:400
+WidthClass:3
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-CondIt
+FamilyName:Myriad Pro
+StyleName:Condensed Italic
+FullName:Myriad Pro Condensed Italic
+MenuName:Myriad Pro Cond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-CONDIT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:102240
+FileModTime:1410829440
+WeightClass:400
+WidthClass:3
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-It
+FamilyName:Myriad Pro
+StyleName:Italic
+FullName:Myriad Pro Italic
+MenuName:Myriad Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-IT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:105656
+FileModTime:1410829440
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightCondIt
+FamilyName:Myriad Pro
+StyleName:Light Condensed Italic
+FullName:Myriad Pro Light Condensed Italic
+MenuName:Myriad Pro Light Cond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-LIGHTCONDIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:91268
+FileModTime:1410829440
+WeightClass:300
+WidthClass:3
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightCond
+FamilyName:Myriad Pro
+StyleName:Light Condensed
+FullName:Myriad Pro Light Condensed
+MenuName:Myriad Pro Light Cond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-LIGHTCOND_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:88744
+FileModTime:1410829440
+WeightClass:300
+WidthClass:3
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightIt
+FamilyName:Myriad Pro
+StyleName:Light Italic
+FullName:Myriad Pro Light Italic
+MenuName:Myriad Pro Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-LIGHTIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99532
+FileModTime:1410829440
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Light SemiCondensed Italic
+FullName:Myriad Pro Light SemiCondensed Italic
+MenuName:Myriad Pro Light SemiCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-LIGHTSEMICNIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99584
+FileModTime:1410829440
+WeightClass:300
+WidthClass:4
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiCn
+FamilyName:Myriad Pro
+StyleName:Light SemiCondensed
+FullName:Myriad Pro Light SemiCondensed
+MenuName:Myriad Pro Light SemiCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-LIGHTSEMICN_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94340
+FileModTime:1410829440
+WeightClass:300
+WidthClass:4
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiExtIt
+FamilyName:Myriad Pro
+StyleName:Light SemiExtended Italic
+FullName:Myriad Pro Light SemiExtended Italic
+MenuName:Myriad Pro Light SemiExt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-LIGHTSEMIEXTIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:92256
+FileModTime:1410829440
+WeightClass:300
+WidthClass:6
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-LightSemiExt
+FamilyName:Myriad Pro
+StyleName:Light SemiExtended
+FullName:Myriad Pro Light SemiExtended
+MenuName:Myriad Pro Light SemiExt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-LIGHTSEMIEXT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:90156
+FileModTime:1410829440
+WeightClass:300
+WidthClass:6
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Light
+FamilyName:Myriad Pro
+StyleName:Light
+FullName:Myriad Pro Light
+MenuName:Myriad Pro Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-LIGHT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94260
+FileModTime:1410829440
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-REGULAR.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101732
+FileModTime:1410829440
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Semibold
+FamilyName:Myriad Pro
+StyleName:Semibold
+FullName:Myriad Pro Semibold
+MenuName:Myriad Pro Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIBOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:103564
+FileModTime:1410829440
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldCondIt
+FamilyName:Myriad Pro
+StyleName:Semibold Condensed Italic
+FullName:Myriad Pro Semibold Condensed Italic
+MenuName:Myriad Pro Light Cond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIBOLDCONDIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:100280
+FileModTime:1410829440
+WeightClass:600
+WidthClass:3
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldCond
+FamilyName:Myriad Pro
+StyleName:Semibold Condensed
+FullName:Myriad Pro Semibold Condensed
+MenuName:Myriad Pro Light Cond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIBOLDCOND_1.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:93320
+FileModTime:1410829440
+WeightClass:600
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldIt
+FamilyName:Myriad Pro
+StyleName:Semibold Italic
+FullName:Myriad Pro Semibold Italic
+MenuName:Myriad Pro Light
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIBOLDIT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:107128
+FileModTime:1410829440
+WeightClass:600
+WidthClass:5
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiCnIt
+FamilyName:Myriad Pro
+StyleName:Semibold SemiCondensed Italic
+FullName:Myriad Pro Semibold SemiCondensed Italic
+MenuName:Myriad Pro Light SemiCond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIBOLDSEMICNIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:102168
+FileModTime:1410829440
+WeightClass:600
+WidthClass:4
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiCn
+FamilyName:Myriad Pro
+StyleName:Semibold SemiCondensed
+FullName:Myriad Pro Semibold SemiCondensed
+MenuName:Myriad Pro Light SemiCond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIBOLDSEMICN_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:96880
+FileModTime:1410829440
+WeightClass:600
+WidthClass:4
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiExtIt
+FamilyName:Myriad Pro
+StyleName:Semibold SemiExtended Italic
+FullName:Myriad Pro Semibold SemiExtended Italic
+MenuName:Myriad Pro Light SemiExt
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIBOLDSEMIEXTIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101456
+FileModTime:1410829440
+WeightClass:600
+WidthClass:6
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiboldSemiExt
+FamilyName:Myriad Pro
+StyleName:Semibold SemiExtended
+FullName:Myriad Pro Semibold SemiExtended
+MenuName:Myriad Pro Light SemiExt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIBOLDSEMIEXT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:96512
+FileModTime:1410829440
+WeightClass:600
+WidthClass:6
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiCnIt
+FamilyName:Myriad Pro
+StyleName:SemiCondensed Italic
+FullName:Myriad Pro SemiCondensed Italic
+MenuName:Myriad Pro SemiCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMICNIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101028
+FileModTime:1410829440
+WeightClass:400
+WidthClass:4
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiCn
+FamilyName:Myriad Pro
+StyleName:SemiCondensed
+FullName:Myriad Pro SemiCondensed
+MenuName:Myriad Pro SemiCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMICN_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:96436
+FileModTime:1410829440
+WeightClass:400
+WidthClass:4
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiExtIt
+FamilyName:Myriad Pro
+StyleName:SemiExtended Italic
+FullName:Myriad Pro SemiExtended Italic
+MenuName:Myriad Pro SemiExt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIEXTIT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99604
+FileModTime:1410829440
+WeightClass:400
+WidthClass:6
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-SemiExt
+FamilyName:Myriad Pro
+StyleName:SemiExtended
+FullName:Myriad Pro SemiExtended
+MenuName:Myriad Pro SemiExt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\MyriadPro\MYRIADPRO-SEMIEXT_0.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:95904
+FileModTime:1410829440
+WeightClass:400
+WidthClass:6
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-Black
+FamilyName:Aileron
+StyleName:Black
+FullName:Aileron Black
+MenuName:Aileron Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29904
+FileModTime:1595784326
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-BlackItalic
+FamilyName:Aileron
+StyleName:Black Italic
+FullName:Aileron Black Italic
+MenuName:Aileron Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-BlackItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30812
+FileModTime:1595784326
+WeightClass:900
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-Bold
+FamilyName:Aileron
+StyleName:Bold
+FullName:Aileron Bold
+MenuName:Aileron Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29196
+FileModTime:1595784326
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-BoldItalic
+FamilyName:Aileron
+StyleName:Bold Italic
+FullName:Aileron Bold Italic
+MenuName:Aileron Bold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30968
+FileModTime:1595784326
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-Heavy
+FamilyName:Aileron
+StyleName:Heavy
+FullName:Aileron Heavy
+MenuName:Aileron Heavy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30060
+FileModTime:1595784326
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-HeavyItalic
+FamilyName:Aileron
+StyleName:Heavy Italic
+FullName:Aileron Heavy Italic
+MenuName:Aileron Heavy
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-HeavyItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31444
+FileModTime:1595784326
+WeightClass:900
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-Italic
+FamilyName:Aileron
+StyleName:Italic
+FullName:Aileron Italic
+MenuName:Aileron
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29612
+FileModTime:1595784326
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-Light
+FamilyName:Aileron
+StyleName:Light
+FullName:Aileron Light
+MenuName:Aileron Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28324
+FileModTime:1595784326
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-LightItalic
+FamilyName:Aileron
+StyleName:Light Italic
+FullName:Aileron Light Italic
+MenuName:Aileron Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29372
+FileModTime:1595784326
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-Regular
+FamilyName:Aileron
+StyleName:Regular
+FullName:Aileron
+MenuName:Aileron
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27644
+FileModTime:1595784326
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-SemiBold
+FamilyName:Aileron
+StyleName:SemiBold
+FullName:Aileron SemiBold
+MenuName:Aileron SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28860
+FileModTime:1595784326
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-SemiBoldItalic
+FamilyName:Aileron
+StyleName:SemiBold Italic
+FullName:Aileron SemiBold Italic
+MenuName:Aileron SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-SemiBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29988
+FileModTime:1595784326
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-Thin
+FamilyName:Aileron
+StyleName:Thin
+FullName:Aileron Thin
+MenuName:Aileron Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28620
+FileModTime:1595784326
+WeightClass:250
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-ThinItalic
+FamilyName:Aileron
+StyleName:Thin Italic
+FullName:Aileron Thin Italic
+MenuName:Aileron Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-ThinItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29540
+FileModTime:1595784326
+WeightClass:250
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-UltraLight
+FamilyName:Aileron
+StyleName:UltraLight
+FullName:Aileron UltraLight
+MenuName:Aileron UltraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-UltraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27636
+FileModTime:1595784326
+WeightClass:250
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Aileron-UltraLightItalic
+FamilyName:Aileron
+StyleName:UltraLight Italic
+FullName:Aileron UltraLight Italic
+MenuName:Aileron UltraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\Aileron-UltraLightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28940
+FileModTime:1595784326
+WeightClass:250
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Thực Tập\WEBGSOT_NHOM_03_Võ Thị Thu Thảo_Trần Gia Huy_Mai Thị Quỳnh\Font\aileron\CC0 1.0 Universal (CC0 1.0)  Public Domain Dedication.txt
+FileModTime:1595784326
+%EndFont
+

@@ -1,0 +1,402 @@
+/* TRANGCHU-SUKIEN */
+.TRANGCHU-SUKIEN{
+    padding-top:35px;
+    padding-bottom:15px;
+}
+.text-my-regular-2:hover{
+    color:black;
+    text-decoration:none;
+}
+.text-my-medium-3:hover{
+    color: #FD9701;
+    text-decoration:none;
+    padding-bottom: 10px;
+}
+/* THANH-nav-tabs */
+.THANH-nav-tabs{
+    margin-top:-20px;
+}
+.col-9-content{
+ padding-right:70px;
+}
+.nav-1 .nav-link{
+    font-family: SFDisplay-Regular;
+    font-size: 17px;
+    color: black;
+    line-height: 17px;
+    margin-right:30px;
+}
+.nav-1 a.THANH-nav-tabs-text1:hover::after{
+   opacity: 1;
+}
+.nav-1 .nav-tabs .nav-link.active{
+ font-family: SFDisplay-SemiBold;
+    font-size: 20px;
+    color: #F15A22;
+    background-color: transparent;
+    border:none;
+    line-height: 24px;
+    position: relative;
+    padding-top:0px;
+    padding-bottom:10px;
+}
+.nav-1 .nav-tabs .nav-link{
+    border:0px;
+}
+.nav-1 .nav-tabs .nav-link:hover{
+    color: #F15A22 !important;
+
+}
+.nav-1 .nav-tabs .nav-link.active::after{
+    content :"";
+    display:block;
+    background-color: #FD9701;
+    width: 56px;
+    height: 4px;
+    margin-top:4px;
+    left: 35%;
+    position: absolute;
+}
+.THANH-nav-tabs-hr{
+    margin-top:-4px;
+}
+/* TIN-CONG-NGHE */
+.TIN-CONG-NGHE{
+    padding-left: 15px; 
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom:30px;
+}
+.TIN-CONG-NGHE-card{
+    padding-top: 0px;
+    padding-right:0px;
+    height: 200px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 3px 3px 10px grey;
+}
+.margintop-15{
+    margin-top:15px !important;
+}
+.content-3-card-pic{
+     background-position: center; 
+     height: 200px;
+     padding-right:0px;
+     background-size: cover;
+}
+.text-my-semi-2{
+    margin-bottom:0px;
+    text-indent: 20px;
+    line-height: 20px;
+    color: #F15A22;
+}
+.text-my-regular{
+    margin-bottom:0px;
+    text-indent: 20px;
+    line-height: 18.63px;
+    text-align:justify;
+    padding-right:12px;
+    margin-top:8px;
+    font-size: 15.53px;
+}
+.TIN-CONG-NGHE-button{
+    margin-left:60%;
+    transform: translateX(-60%);
+}
+.TIN-CONG-NGHE-button:hover{
+ filter:saturate(8);
+ transition-duration: 0.3s;
+}
+.content-3-col1-under{
+    margin-top: 35px;
+    margin-bottom:0px;
+}
+.content-3-col1-under2{
+    margin-top: 20px;
+}
+.content-3-col1-under3{
+    margin-top: 15px;
+}
+.content-3-col1-under1{
+    margin-top: 25px;
+}
+.content-1-col-7{
+    padding-left: 35px; 
+    margin-top:15px;
+    margin-bottom: 15px;
+}
+/* BAI-VIET-MOI */
+.BAI-VIET-MOI{
+    padding-top:75px;
+}
+.marginright-0{
+    margin-right: 0px;
+}
+
+.nav-tabs .nav2{
+ font-family: SFDisplay-SemiBold;
+    font-size: 20px;
+    color:black;
+    border:none;
+    position: relative;    
+}
+.nav2.active{
+    background: linear-gradient(to right, #0BA350,#006768);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.nav-tabs .nav2:hover{
+    background: linear-gradient(to right, #0BA350,#006768);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.nav-tabs .nav2.active::after{
+    content :"";
+    background-color: #FD9701;
+    width: 56px;
+    height: 4px;
+    left: 30%;
+    top:90%;
+    position: absolute;
+
+}
+.line-nav{
+    color:black;
+    padding-left:15px;
+    padding-right:0px;
+    margin-right:0px;
+    padding-top:5px;
+    font-size: 20px;
+}
+.col-2-hr{
+    margin-top:-3px;
+}
+.BAI-VIET-MOI-indent{
+    text-indent: 15px;
+    text-align: justify;
+    line-height: 18px;
+}
+.col-2-text-circle-1{
+    font-size: 20.45px;
+    text-align: center;
+}
+.col-2-text-circle-2{
+    font-size:9px;
+    text-align: center;
+    margin-top: -6px;
+}
+.col-2-circle{
+    margin-top: -49px;
+}
+.text-my-regular-5{
+    font-size:40px;
+}
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+.content-3-col1-under,.content-3-col1-under2,.content-3-col1-under3{
+    flex-wrap: wrap;
+}
+.TIN-CONG-NGHE-button{
+    margin-left:50%;
+}
+    .TIN-CONG-NGHE{
+    padding-left: 0px; 
+    padding-right: 0px;
+}
+    .TIN-CONG-NGHE-card{
+        height: auto;
+    }
+    .content-3-card-pic{
+        padding-left:0px;
+    }
+    .col-9-content {
+    padding-right: 0px;
+    padding-left:0px !important;
+}
+
+    .content-1-col-7{
+    padding-left: 30px; 
+    margin-top:10px;
+}
+
+.THANH-nav-tabs-text1{
+    font-size:10px;
+    margin-right:20px;
+}
+.THANH-nav-tabs-text1::after{
+    margin-left: 25px;
+    height:4px;
+}
+.THANH-nav-tabs-text2::after{
+    margin-left: 25px;
+    height:3px;
+}
+.THANH-nav-tabs-text2{
+    font-size:9px;
+    margin-right:20px;
+    margin-top:-2px;
+}
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .TIN-CONG-NGHE-card{
+        height: auto;
+    }
+    .col-9-content {
+    padding-right: 0px;
+    padding-left:0px;
+}
+
+    .content-1-col-7{
+    padding-left: 30px; 
+    margin-top:10px;
+}
+.hr-long2{
+    margin-right:0px !important;
+}
+.THANH-nav-tabs-text1{
+    font-size:15px;
+    margin-right:20px;
+}
+.THANH-nav-tabs-text1::after{
+    margin-left: 30px;
+    height:4px;
+}
+.THANH-nav-tabs-text2::after{
+    margin-left: 30px;
+    height:3px;
+}
+.THANH-nav-tabs-text2{
+    font-size:14px;
+    margin-right:20px;
+    margin-top:-2px;
+}
+.text-my-regular-5{
+    font-size:40px;
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .TIN-CONG-NGHE-card{
+        height: auto;
+    }
+    .col-9-content {
+        padding-right: 0px !important;
+    }
+    .r-3-1{
+        padding-left:30px;
+        padding-right:30px;
+    }
+    .content-1-col-7{
+        padding-left: 30px; 
+        margin-top:10px;
+    }
+    .tab-content.TIN-CONG-NGHE-button{
+        padding-left:5% !important;
+    }
+    .content-3-card-pic{
+        height: auto;
+    }
+    .text-my-regular-5{
+        font-size:40px;
+    }
+    .THANH-nav-tabs-text1{
+        font-size:15px;
+        margin-right:20px;
+    }
+    .THANH-nav-tabs-text1::after{
+        margin-left: 25px;
+        height:4px;
+    }
+    .THANH-nav-tabs-text2::after{
+        margin-left: 25px;
+        height:3px;
+    }
+    .THANH-nav-tabs-text2{
+        font-size:14px;
+        margin-right:20px;
+        margin-top:-2px;
+    }
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .TIN-CONG-NGHE-card{
+        height: 220px;
+        margin-top: 15px !important;
+    }
+    .col-9-content {
+    padding-right: 0px;
+}
+    .content-1-col-7{
+    padding-left: 30px; 
+    margin-top:10px;
+}
+.content-3-card-pic{
+     height: 100%;
+}
+.content-3-col1-under {
+    margin-top: 20px;
+}
+.THANH-nav-tabs-text1{
+    font-size:15px;
+    margin-right:20px;
+}
+.THANH-nav-tabs-text1::after{
+    margin-left: 25px;
+    height:4px;
+}
+.THANH-nav-tabs-text2::after{
+    margin-left: 25px;
+    height:3px;
+}
+.THANH-nav-tabs-text2{
+    font-size:14px;
+    margin-right:20px;
+    margin-top:-2px;
+}
+.margintop-15{
+    margin-top: 50px !important;
+}
+ }
+
+
+.circle{
+    width: 61px;
+    height: 61px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid #767676;
+    margin-left:500px;
+    margin-bottom:100px;
+    position: relative;
+    padding:4px;
+}
+.circle2{
+    width: 50px;
+    height: 50px;
+    background-color: #e74c3c;
+    border-radius: 50%;
+    color:white;
+    box-shadow: 1px 1px 0px lightgrey;
+}
+.circle::after{
+    border-radius: 50%;
+    border:3px solid #e74c3c;
+    border-right: 3px solid transparent;
+    border-top:3px solid transparent;
+    background-color: transparent;
+    width: 62px;
+    height: 62px;
+    content: "";
+    position: absolute;
+        display:block;
+        left:-3px;
+        top:-1px;
+}
+}

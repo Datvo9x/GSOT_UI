@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--bootstrap-->
+    <link rel="stylesheet" href="bootstrap-4.2.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="fontawesome-free-5.14.0-web/css/all.css">
+    <!-- slide -->
+    <link rel="stylesheet" href="OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css">
+    <link rel="stylesheet" href="OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css">
+    <!-- css -->
+    <link rel="stylesheet" href="css/style-quynh.css">
+    <link rel="stylesheet" href="css/style2.css">
+    <link rel="stylesheet" href="css/media_style-quynh.css">
+    <link rel="stylesheet" href="css/font.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg fixed-top navbar-fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="home.html">
+                    <img width="100px" height="50px" src="https://gsotgroup.vn/wp-content/uploads/2018/10/logo.png"
+                        data-src="https://gsotgroup.vn/wp-content/uploads/2018/10/logo.png"
+                        class="header_logo header-logo lazyloaded" alt="GSOTGROUP" width="100%">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+                    aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class=" collapse navbar-collapse justify-content-end" id="navbarTogglerDemo02">
+                    <ul class="navbar-nav ml-auto mt-2 mt-lg-0 nav-mobile">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="gioithieu.html">GIỚI THIỆU</a>
+                            <div class="border-nav border-light-nav1"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_3.html">DỊCH VỤ</a>
+                            <div class="border-nav border-light-nav2"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_5.html">DỰ ÁN</a>
+                            <div class="border-nav border-light-nav3"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_7.html">BẢNG TIN</a>
+                            <div class="border-nav border-light-nav4"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_10.html">TUYỂN DỤNG</a>
+                            <div class="border-nav border-light-nav5"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_12.html">LIÊN HỆ</a>
+                            <div class="border-nav border-light-nav6"></div>
+                        </li>
+                        <li class="nav-item search d-flex">
+                            <div class="dropdown">
+                                <button onclick="myFunction()" class="dropbtn"><i class="fa fa-search"></i></button>
+                                <div id="myDropdown" class="dropdown-content">
+                                    <div class="d-flex flex-row">
+                                        <input type="text" placeholder="Search.." name="myInput" id="myInput"
+                                            onkeyup="filterFunction()">
+                                        <button class="dropdown-button" name="find" id="find"
+                                            onclick="myFunction()"><img
+                                                src="img/trangchu/xuat file2-25-25.png"></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <a href="">
+                                <i class="fas fa-search icon-search"></i></a>
+                            <form class="form-search">
+                                <input type="text">
+                                <div style="border: 1px solid white; width: 200px;"></div>
+                            </form> -->
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-wrap="true"
+            data-interval="true">
+            <!-- <div class="border-light-right d-sm-block d-none"></div> -->
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"><span>0</span></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"><span>1</span></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"><span>2</span></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"><span>3</span></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="4"><span>4</span></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item item active">
+                    <img class="d-block w-100" src="img/bannerr.png" width="100%" alt="First slide">
+                </div>
+                <div class="carousel-item item">
+                    <img class="d-block w-100" src="img/WEB SITE11-5.png" width="100%" alt="Second slide">
+                </div>
+                <div class="carousel-item item">
+                    <img class="d-block w-100" src="img/WEB SITE11-7.png" width="100%" alt="Third slide">
+                </div>
+                <div class="carousel-item item">
+                    <img class="d-block w-100" src="img/WEB SITE11-10.png" width="100%" alt="Third slide">
+                </div>
+                <div class="carousel-item item">
+                    <img class="d-block w-100" src="img/bannerr.png" width="100%" alt="Third slide">
+                </div>
+            </div>
+            <!-- <a class="carousel-control-prev prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a> -->
+        </div>
+        <div class="intro container">
+            <div class="row">
+                <div class="col-md-6 pl-48">
+                    <span class="intro-title font-bold">GIỚI THIỆU GSOT</span>
+                    <div class="intro-border"></div>
+                    <p class="text-justify">
+                        Công ty Cổ phần Giải Pháp Thông minh xanh (GSOT) là công ty hàng đầu tại Việt Nam chuyên cung
+                        cấp dịch vụ phát triển và triển khai ứng dụng các hệ thống phần mềm công nghệ thông tin vào quản
+                        lý sản xuất kinh doanh, nhằm nâng cao hiệu quả điều hành, quản trị cho các doanh nghiệp, tổ chức
+                        kinh doanh – xã hội.
+                    </p>
+                    <p class="text-justify" style="padding-top: 7px">
+                        Các sản phẩm tiêu biểu của GSOT như là: TMS (Transportation Management System), Hệ thống CMS
+                        (Container Management System), Hệ thống HRMS (Human Resource Management System), Các hệ thống
+                        quản lý bán hàng và rác thải, Hệ thống điều phối giao hàng, Hệ thống quản lý giáo dục,…
+                    </p>
+                </div>
+                <div class="col-md-6 pr-48 pl-48">
+                    <img src="img/img3/content2-col2.png" width="100%" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="intro-img">
+            <img src="img/trangchu/img.png" width="100%" alt="">
+        </div>
+        <div class="intro-col">
+            <div class="container">
+                <div class="flex-container ">
+                    <div class="intro-flex-item">
+                        <div class="flex-border">
+                            <div class="col-img text-center">
+                                <img src="img/trangchu/intro1.png" class="mb-2" width="55px" height="60px" alt="">
+                            </div>
+                            <div class="col-text text-center">
+                                <span class="flex-title">THẤU HIỂU</span>
+                                <p class="flex-des text-justify">
+                                    GSOT luôn tin tưởng và tôn trọng các khách hàng trên cơ sở hợp tác, hai bên cùng có
+                                    lợi, cùng phát triển, cùng thấu hiểu và cùng chia sẻ những khó khăn trong quá trình
+                                    triển khai dự án. Luôn quan tâm và suy nghĩ làm thế nào để tạo ra điều tốt đẹp đến
+                                    khách hàng, để đưa những điều ấy vào sản phẩm và dịch vụ của mình.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="intro-flex-item">
+                        <div class="flex-border">
+                            <div class="col-img text-center">
+                                <img src="img/trangchu/intro2.png" class="mb-2" width="50px" height="55px" alt="">
+                            </div>
+                            <div class="col-text text-center">
+                                <span class="flex-title">TIỆN ÍCH</span>
+                                <p class="flex-des text-justify">
+                                    Các sản phẩm của GSOT được tạo ra luôn hướng đến tiêu chí dễ dàng sử dụng và thật sự
+                                    có ích đối với doanh nghiệp, các tính năng đảm bảo đáp ứng mọi nhu cầu trong quá
+                                    trình hoạt động kinh doanh của mọi lĩnh vực, đặc biệt áp dụng những công nghệ, thiết
+                                    bị thông minh để gia tăng thêm sự hài lòng của khách hàng
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="intro-flex-item">
+                        <div class="flex-border">
+                            <div class="col-img text-center">
+                                <img src="img/trangchu/intro3.png" class="mb-2" width="50px" height="55px" alt="">
+                            </div>
+                            <div class="col-text text-center ">
+                                <span class="flex-title">TẬN TÂM</span>
+                                <p class="flex-des text-justify">
+                                    GSOT luôn tin tưởng và tôn trọng các khách hàng trên cơ sở hợp tác, hai bên cùng có
+                                    lợi, cùng phát triển, cùng thấu hiểu và cùng chia sẻ những khó khăn trong quá trình
+                                    triển khai dự án. Luôn quan tâm và suy nghĩ làm thế nào để tạo ra những điều tốt đẹp
+                                    đến khách hàng, để đưa những điều ấy vào sản phẩm và dịch vụ của mình.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="intro-sodo">
+            <div class="container text-center">
+                <img src="img/trangchu/diagram.png" width="75%" alt="">
+            </div>
+        </div>
+        <div class="company-cus">
+            <div class="container">
+                <div class="dot-mid"></div>
+                <div class="text-center" style="margin-top: 46px">
+                    <span class="cus-title">KHÁCH HÀNG CỦA GSOT</span>
+                    <p class="borders"></p>
+                </div>
+                <div class="cus-flex mt-3 img-gray">
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 pr-0">
+                        <div class="logo p-2">
+                            <a href="home.html">
+                                <img src="img/Img/logo-footer.png" width="180" height="90" alt="">
+                            </a>
+                        </div>
+                        <div class="d-flex flex-column">
+                            <h6><span class="font-bold">CÔNG TY CỔ PHẦN GIẢI PHÁP THÔNG MINH XANH</span></h6>
+                            <span>81/15/18 Huỳnh Văn Nghệ, P.12, Q., Tp. HCM</span>
+                            <span>Văn phòng: 127/2 Hoàng Hoa Thám, P. 13, Q. Tân Bình, Tp.HCM</span>
+                            <span><b>Điện thoại:</b> (028) 6286 1906 - <b>Mobile:</b> 0966662580</span>
+                            <span><b>Email:</b> info@gsotgroup.vn <b style="margin-left: 38px;">MST:</b> 0314567061
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 pt-5">
+                        <h5 class="mt-3 font-bold pl-3" style="color: var(--yellow)">LIÊN KẾT</h5>
+                        <div class="link mt-3 pl-3 pl-3">
+                            <div class="row">
+                                <div class="col-md-6 col-6">
+                                    <a href="">Facebook</a>
+                                </div>
+                                <div class="col-md-6 col-6">
+                                    <a href="">Behance</a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 col-6">
+                                    <a href="">Instagram</a>
+                                </div>
+                                <div class="col-md-6 col-6">
+                                    <a href="">Pinterest</a>
+                                </div>
+                            </div>
+                            <div class="dot-footer"></div>
+                            <div class="d-flex flex-column mt-3">
+                                <span>© Copyright 2020.</span>
+                                <span>All Right Reserved by GSOT</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4" style="margin-top: 35px">
+                        <a
+                            href="https://www.google.com/maps/place/C%C3%B4ng+ty+ph%E1%BA%A7n+m%E1%BB%81m+GSOT/@10.8024744,106.6463747,19.81z/data=!4m5!3m4!1s0x31752974fd410c2b:0xd7dd5f74c0918d3d!8m2!3d10.8023659!4d106.6464651?hl=vi-VN">
+                            <img class="map_gsot" src="img/bando.png" width="374" height="192" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- JS, Popper.js, and jQuery -->
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="bootstrap-4.2.1/dist/js/bootstrap.min.js"></script>
+    <!-- <script src="https://kit.fontawesome.com/yourcode.js"></script>/ -->
+    <script src="OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
+    <script src="js/slider.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

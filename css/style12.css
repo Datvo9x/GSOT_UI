@@ -1,0 +1,244 @@
+.content1{
+    padding-top:30px;
+    padding-bottom: 40px;
+}
+.container{
+    max-width: 1200px !important;
+}
+.text-re15{
+    font-size:15.53px;
+    font-family:SFDisplay-Regular;
+}
+.text-bo19{
+    font-size:19px;
+    font-family:SFDisplay-Bold;
+}
+.text-se15{
+    font-size:15.53px;
+    font-family:SFDisplay-Semibold;
+}.text-me16{
+    font-size:16px;
+    font-family:SFDisplay-Medium;
+}
+.text-re16{
+    font-size:16px;
+    font-family:SFDisplay-Regular;
+}
+.color-orange{
+    color:#FD9701;
+}
+.color-red{
+    color:#F15A22;
+}
+.color-content{
+    color:#404041;
+}
+.hr-orange{
+    width: 100%;
+    background-color:#FD9701;
+    height: 1px;
+    position: relative;
+}
+.hr-orange1{
+    height: 3px;
+    position: absolute;
+    top:-1.5px;
+    left: 30%;
+    width: 8%;
+    background-color:#FD9701;
+}
+.mt15{
+    margin-top: 15px;
+}
+.mt60{
+    margin-top: 35px;
+}
+.mt40{
+    margin-top: 40px;
+}
+.mb40{
+    margin-bottom: 40px;
+}
+.mb35{
+    margin-bottom: 15px;
+}
+.pr30{
+    padding-right: 30px;
+}
+.pr55{
+    padding-right: 55px;
+}
+.pl28{
+    padding-left: 28px;
+}
+/* cũ có màu gradient */
+.text-gradient {
+    font-size: 50px;
+    font-family: SFDisplay-Black;
+    background: linear-gradient(to right, #0BA550,#006768);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height:55px;
+    position: relative;
+    z-index: 2;
+    /* padding-right: 160px; */
+    word-spacing: 2px;
+    letter-spacing:2px;
+}
+p{
+    margin: 0px;
+}
+/* chữ có viền màu gradient*/
+.text-gradient1 {
+    font-size: 50px;
+    font-family: SFDisplay-Black;
+    text-shadow:2px 2px white, 3px 3px #006768;
+    background: linear-gradient(to right, #0BA350,#006768);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height:55px;
+    padding-left: 3px;
+    position: absolute;
+    padding-right: 160px;
+    top:80px;
+    left:13px;
+    word-spacing: 2px;
+    letter-spacing:2px;
+}
+/* khoảng cách giữa 2 phần left right */
+hr{
+    margin:0px;
+}
+.hr-text-grey{
+    background-color: #CCCCCC;
+    height: 2px;
+    width: 9%;
+}
+.pl24{
+    padding-left: 24px;
+}
+.hr-text-red{
+    background-color: #FD9701;
+    height: 2px;
+    width: 20%;
+}
+.image-right{
+    width: 100%;
+    height: 235px;
+    margin-top: 40px;
+}
+.input{
+    background-color: #F2F2F2;
+    color:#A5A7AA;
+    border-radius: 5px;
+    padding:2px 10px;
+    font-size: 12px;
+    font-family:SFDisplay-Regular;
+    margin-bottom: 8px;
+    height: 24px;
+}
+.input1{
+    background-color: #F2F2F2;
+    color:#A5A7AA;
+    border-radius: 5px;
+    padding:5px 10px;
+    font-size: 12px;
+    font-family:SFDisplay-Regular;
+    margin-bottom: 10px;
+    height: 170px;
+}
+.input img,.input1 img{
+    margin-right:10px;
+}
+input
+{
+    background-color: transparent;
+    border:none;
+    width: 70%;
+    outline: none;
+    color:#A5A7AA;
+}
+textarea
+{
+    background-color: transparent;
+    border:none;
+    width: 100%;
+    outline: none;
+    color:#A5A7AA;
+}
+@media screen and (max-width:1169px){
+    .text-gradient1{
+        padding:0px;
+    }
+}
+@media screen and (max-width:1060px){
+    .pr30{
+        padding-right: 15px !important;
+    }
+    .mt60{
+        margin-top: 50px!important;
+    }
+}
+@media screen and (min-width:955px) and (max-width:1010px){
+    .text-gradient1{
+        padding-right:80px;
+    }
+}
+@media screen and (min-width:912px) and (max-width:921px){
+    .text-gradient1{
+        display: none;
+    }
+     .text-gradient{
+        position: relative;
+        top:0px;
+        padding-right: 0px;
+        left: 0px;
+    }
+}
+@media screen and (min-width:865px) and (max-width:911px){
+    .text-gradient1{
+        padding-right:50px !important;
+    }
+}
+@media screen and (max-width:864px){
+    .text-gradient1{
+        display: none;
+    }
+     .text-gradient{
+        /* position: relative; */
+        top:0px;
+        padding-right: 0px;
+        left: 0px;
+         font-size:40px;
+        text-align:center;
+    }
+}
+@media screen and (max-width:767px){
+    .col-md-8,.col-md-4{
+        padding:0px !important;
+    }
+    .image-right{
+        height: auto;
+    }
+    .pr55{
+        padding-right: 0px !important;
+    }
+    .bando{
+        margin-top:20px;
+        height: 200px;
+    }
+    .pl-0{
+        padding-left: 15px!important;
+    }
+    .pl28{
+        padding-left: 0px!important;
+    }
+}
+@media screen and (max-width:340px){
+    .text-gradient{
+        font-size:30px;
+        line-height: 30px;
+    }
+}

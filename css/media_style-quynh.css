@@ -1,0 +1,331 @@
+@media screen and (max-width: 1200px) {
+  .border-light-nav1 {
+    left: 8%;
+  }
+  .border-light-nav2 {
+    left: 19%;
+  }
+  .border-light-nav3 {
+    left: 28%;
+  }
+  .border-light-nav4 {
+    left: 39%;
+  }
+  .border-light-nav5 {
+    left: 54%;
+  }
+  .border-light-nav6 {
+    left: 64%;
+  }
+  .border-light-right {
+    left: -10%;
+    top: 33%;
+  }
+  .img3 img {
+    padding-right: 0;
+  }
+  .card-gradient:hover .border-light,
+  .card-gradient:hover .border-light-choice {
+    display: none;
+  }
+  .company-intro-content {
+    padding: 30px;
+  }
+  .problem .card {
+    height: 385px;
+  }
+  .software .card {
+    height: 200px;
+  }
+  .block-right {
+    width: 700px !important;
+    top: 60%;
+  }
+  .gh .card-gradient {
+    height: 260px !important;
+  }
+  #choice-slider .owl-carousel .owl-stage-outer {
+    height: 265px !important;
+  }
+  #prob-slider .owl-carousel .owl-stage-outer {
+    height: 400px !important;
+  }
+  #prob-slider .owl-carousel .owl-nav button.owl-prev {
+    top: 90% !important;
+    /* left: 40% !important; */
+  }
+  #prob-slider .owl-carousel .owl-nav button.owl-next {
+    top: 90% !important;
+    /* left: 50% !important; */
+  }
+  .help-text {
+    height: auto;
+  }
+  .footer {
+    z-index: -12;
+    text-align: center;
+    background-image: linear-gradient(to right bottom, #0db04b, #037762);
+  }
+  .footer .footer-background {
+    display: none;
+  }
+  .footer .container {
+    margin-top: 0;
+  }
+  .footer-flex-container {
+    flex-direction: column;
+    width: 100%;
+  }
+  .footer .footer-background {
+    display: none;
+  }
+  .footer-flex-item1 {
+    padding-top: 30px;
+    padding-right: initial;
+  }
+  .footer-flex-item2 {
+    margin-top: 48px;
+    padding-right: initial;
+  }
+  .dot-footer {
+    display: none;
+  }
+  .dot-footer {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+}
+@media screen and (max-width: 992px) {
+  body {
+    line-height: 1.2 !important;
+  }
+  .nav-item::after {
+    content: "" !important;
+  }
+  .nav-item {
+    padding: 10px 0;
+  }
+  .nav-item:hover .border-nav {
+    display: none;
+  }
+  .carousel .carousel-indicators {
+    top: 95%;
+  }
+  .row {
+    margin: 0 !important;
+  }
+  .block-right,
+  .block-left {
+    display: none;
+  }
+  .problem .card {
+    height: 350px !important;
+  }
+  #prob-slider .owl-carousel .owl-stage-outer {
+    height: auto !important;
+  }
+  .icon-arrow {
+    position: absolute;
+    z-index: 13;
+    top: 440px;
+    left: 50%;
+  }
+  .footer .footer-background {
+    display: none;
+  }
+  .footer-flex-item1 {
+    padding-top: 30px;
+    padding-right: initial;
+  }
+  .footer-flex-item2 {
+    margin-top: 48px;
+    padding-right: initial;
+  }
+  .dot-footer {
+    display: none;
+  }
+  /* gioithieu */
+  .pl-180 {
+    padding-left: inherit;
+  }
+  .soft-icon {
+    text-align: center;
+  }
+  .dot-mid,
+  .dot-left {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .img3 img {
+    width: 100% !important;
+  }
+  .btn-more {
+    margin: auto !important;
+  }
+  .padl-123 {
+    padding-left: 0px;
+  }
+  .padr-107 {
+    padding-right: 0px !important;
+  }
+  #prob-slider .owl-carousel .owl-stage-outer {
+    height: 390px !important;
+  }
+  #prob-slider .owl-carousel .owl-nav button.owl-prev {
+    top: 100% !important;
+    left: 43% !important;
+  }
+  #prob-slider .owl-carousel .owl-nav button.owl-next {
+    top: 100% !important;
+    left: 50% !important;
+  }
+  .icon-arrow {
+    display: none;
+  }
+  .prob-img1 {
+    display: none;
+  }
+  .problem .card {
+    height: 369px;
+  }
+  .prob-col {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+  }
+  .ql {
+    margin-top: 15px;
+  }
+  .company-choice .choice-title {
+    padding-bottom: 20px;
+  }
+  .gh .card {
+    min-height: auto;
+  }
+  #choice-slider .owl-carousel .owl-nav button.owl-next {
+    right: -1% !important;
+  }
+  #choice-slider .owl-carousel .owl-nav button.owl-prev {
+    left: -1% !important;
+  }
+  .slider {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .company-choice img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .gallery img {
+    display: none;
+  }
+  .p-6 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .software .row {
+    padding-top: 15px !important;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .tieude {
+    display: flex;
+    flex-direction: column;
+  }
+  .icon-arrow {
+    top: 50px;
+    left: 20%;
+  }
+  .icon {
+    display: none;
+  }
+  .gioithieu .col-md-6 {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+  .flex-container {
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .footer .container {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 576px) {
+  span.pro-img1 img {
+    display: none !important;
+  }
+  .dot-mid {
+    margin-top: 10px;
+  }
+  .company-intro-content {
+    padding-top: 20px;
+    text-align: center;
+  }
+  .ql {
+    padding-left: 35px;
+    padding-right: 35px;
+  }
+  .help-text {
+    border-left: none;
+    border-right: none;
+  }
+  .help-text::before,
+  .help-text::after {
+    display: none;
+  }
+  .problem .card {
+    height: auto;
+  }
+  #prob-slider .owl-carousel .owl-nav button.owl-prev {
+    left: 40% !important;
+  }
+  #prob-slider .owl-carousel .owl-nav button.owl-next {
+    left: 50% !important;
+  }
+  .prob-col {
+    padding-left: inherit !important;
+    padding-right: inherit !important;
+  }
+  .pl-48 {
+    padding-left: 15px !important;
+  }
+  .pr-27,
+  .pl-27 {
+    padding: 0 !important;
+  }
+  .software .row {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .flex-item {
+    width: 50% !important;
+    align-items: center;
+  }
+  .cus-title,
+  .problem-title,
+  .mobile-title,
+  .helps {
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+  }
+  .cus-flex .flex-item img {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 360px) {
+  .footer-flex-item3 img {
+    width: 320px;
+    height: 170px;
+  }
+  .footer-flex-item3 {
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    align-self: center;
+    margin: auto;
+  }
+}

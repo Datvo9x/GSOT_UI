@@ -1,0 +1,472 @@
+.body-col9{
+    padding-left: 15px; 
+    padding-right: 15px;
+}
+/* TMS */
+.TMS{
+    padding-top:55px;
+    padding-bottom: 30px;
+    text-align: justify !important;
+}
+.TMS-text{
+    text-align: justify;
+    margin-left:15px;
+}
+.TMS-text-1{
+    text-align: justify !important;
+    margin-left:18px;
+    padding-right:40px;
+}
+.TMS-text::after{
+    content :"";
+    display:block;
+    background-color: #FD9701;
+    width: 55px;
+    height: 3px;
+}
+/* TINH-NANG */
+.TINH-NANG{
+    margin-top: 5px;
+    text-align: justify;
+    margin-left:15px;
+}
+.TINH-NANG-col2{
+    padding-left:40px;
+}
+.TINH-NANG-pic{
+    height: 255px;
+    overflow: hidden;
+}
+.TINH-NANG-col8{
+padding-left: 80px; 
+padding-top:10px;
+height: auto;
+}   
+/* Tạo-đơn-hàng */
+.Tạo-đơn-hàng{
+    padding-top:65px;
+    text-align: justify;
+    margin-left:15px;
+}
+.Tạo-đơn-hàng-pic2{
+    width:100%;
+    margin-top: -30px;
+}
+/* Kiểm-hàng-lên */
+.Kiểm-hàng-lên{
+    padding-top:50px;
+    padding-bottom: 35px;
+    text-align: justify;
+    margin-left:15px;
+}
+.circle {
+    position: relative;
+    margin-top: 5px;
+    padding-top: 2px;
+    padding-left: 1px;
+    width: 13px;
+    height: 13px;
+    background: white;
+    border-radius: 50%;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+}
+.circle-red {
+    /* top: 8px; */
+    position: absolute;
+    width: 9px; 
+    height: 9px;
+    background: red;
+    border-radius: 50%;
+
+}
+.pr-20 {
+    padding-right: 25px;
+}
+.Kiểm-hàng-lên-img{
+    width: 100%;
+}
+/* QUẢN-LÝ */
+.QUẢN-LÝ{
+  background-image: linear-gradient(to top,#0db14b,#037a60);  
+  padding-top:25px;
+  padding-bottom: 165px;
+  margin-left:-200px;
+  padding-left: 230px;
+  padding-right: 90px;
+  height:270px;
+}
+.QUẢN-LÝ-col{
+    border-left:1px solid lightgrey;
+    border-right:1px solid lightgrey;
+    height: 220px;
+}
+.QUẢN-LÝ-col-2{
+    border-right:1px solid lightgrey;
+    margin-top: 0px;
+    padding-left:12px;
+}
+.QUẢN-LÝ-col4-text{
+    padding-left:15px;
+    padding-right:15px;
+    line-height: 20px;
+    padding-bottom:5px;
+    margin-top:-16px;
+}
+.QUẢN-LÝ-col-3{
+    border-left:3px solid white;
+    border-right:3px solid white;
+    height: 77px;
+}
+.QUẢN-LÝ-col-4{
+    border-right:3px solid white;
+    height: 77px;
+}
+.QUẢN-LÝ-col-mid{
+    padding-left:8px; 
+    padding-right:0px; 
+}
+.content-up{
+    margin-top: -220px;
+    margin-left: -16px;
+}
+.text-my-semi-2::after{
+    content:"";
+    background-color:white;
+    width: 40px;
+    height: 3px;
+    display: block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+/* Kiểm-soát-tình-trạng-đơn-hàng */
+.Kiểm-soát-tình-trạng-đơn-hàng{
+    padding-top:35px;
+    padding-bottom: 110px;
+}
+.Kiểm-soát-tình-trạng-đơn-hàng-img{
+    width: 100%;
+    padding-left: 16px;
+}
+.ksttdh-text-1{
+    padding-bottom: 0px; 
+    margin-bottom: 0px; 
+    padding-left: 16px;
+}
+.ksttdh-text-2{
+    padding-left:16px
+}
+/* DỰ-ÁN */
+.DỰ-ÁN{
+    padding-top:60px;
+    padding-left:25px; 
+    padding-right:0px;
+}
+.DỰ-ÁN-text-my-bold{
+    font-family: SFDisplay-Bold;
+    font-size: 16px;
+    color: #231F20;
+}
+.DỰ-ÁN-text-my-regular{
+    font-family: SFDisplay-Regular;
+    font-size: 13px;
+    color: black;
+    text-decoration: underline;
+    padding-top:5px;
+    text-align: left;
+    white-space: normal;
+    word-break: break-all;
+    padding-left:0px;
+}
+.DỰ-ÁN-text-my-regular:hover{
+    cursor: pointer;
+}
+.DỰ-ÁN-form{
+    height:170px !important;
+    width: auto !important;
+    border:none !important;
+    padding:0 !important;
+    margin:0 !important;
+    outline: none !important;
+    overflow-y:scroll ;
+}
+.DỰ-ÁN-form:hover{
+    border:none !important;
+    outline: none !important;
+}
+.DỰ-ÁN-text-my-bold::after{
+    content :"";
+    display:block;
+    background-color: #ffca05;
+    width: 20%;
+    height: 3px;
+    opacity: 1;
+    margin-top: 3px;
+}
+/* .DỰ-ÁN-text-my-bold:hover::after{
+    opacity: 1;
+} */
+.DỰ-ÁN-pic-fbgsot{
+    width:280px;
+}
+
+/* cotxanh */
+.cotxanh1{
+    margin-right:-2px;
+}
+.cotxanh2{
+    margin-right:-2px;
+}
+.cotxanh3{
+    margin-left:0px;
+    margin-right:-1px;
+}
+.cotxanh4{
+    margin-right: -2px;
+}
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+.body-col9{
+    padding-left: 0px; 
+    padding-right: 0px;
+}
+    .content-1-text{
+    text-align: left;
+    font-size: 17px;
+}
+.an{
+    display:none;
+}
+.TMS-text{
+    margin-left:0px;
+    font-size: 20px;
+}
+.QUẢN-LÝ{
+  height: auto;
+  padding-bottom:30px;
+  margin-left:0px;
+  padding-left:50px;
+  padding-right:50px;
+}
+.QUẢN-LÝ-col-4{
+    border:none;
+    padding: 0px;
+    margin:0px;
+}
+.QUẢN-LÝ-col-3{
+    border:none;
+}
+.QUẢN-LÝ-col{
+    border:1px solid lightgrey;
+    height: auto;
+}
+.QUẢN-LÝ-col-2{
+    border:1px solid lightgrey;
+    padding-bottom:30px;
+    padding-top:10px;
+}
+.QUẢN-LÝ-col-mid{
+    padding-left:0px; 
+    padding-right:0px; 
+}
+.QUẢN-LÝ-col4-text{
+    margin-top:0px;
+}
+.textcenter-5{
+    text-align:center !important;
+}
+.TINH-NANG{
+    margin-left:0px;
+}
+.Tạo-đơn-hàng{
+    margin-left:0px;
+    padding-left: 0px;
+}
+.Kiểm-hàng-lên{
+    margin-left:0px;
+}
+.QUẢN-LÝ{
+    padding-left:10px;
+    padding-right:10px;
+}
+.ksttdh-text-1{
+    padding-left:0px;
+}
+.ksttdh-text-2{
+    padding-left:0px;
+}
+.Kiểm-soát-tình-trạng-đơn-hàng-img{
+    padding-left:0px;
+}
+.Tạo-đơn-hàng-pic2{
+    margin-top: 0px;
+}
+.DỰ-ÁN{
+    padding-left:0px; 
+}
+ .TINH-NANG-pic{
+    width: 100%;
+    height: auto;
+}
+.TINH-NANG-col8{
+padding-left: 30px !important; 
+padding-top:0px;
+} 
+.DỰ-ÁN{
+    padding-left:0px; 
+}
+}
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.content-1-text{
+    text-align: left;
+    font-size: 23px;
+}
+.an{
+    display:none;
+}
+.TINH-NANG-pic{
+    width: 100%;
+    height: auto;
+}
+.TINH-NANG-col8{
+padding-left: 10px !important; 
+padding-top:10px;
+} 
+.TINH-NANG-col8 .TINH-NANG-pic{
+    width: 100%;
+    height: auto;
+}
+.QUẢN-LÝ{
+  height: auto;
+  padding-bottom:30px;
+  margin-left:0px;
+  padding-left:100px;
+  padding-right:100px;
+}
+.QUẢN-LÝ-col-4{
+    border:none;
+    padding: 0px;
+    margin:0px;
+}
+.QUẢN-LÝ-col-3{
+    border:none;
+}
+.QUẢN-LÝ-col{
+    border:1px solid lightgrey;
+    height: auto;
+}
+.QUẢN-LÝ-col-2{
+    border:1px solid lightgrey;
+    padding-bottom:30px;
+    padding-top:10px;
+}
+.QUẢN-LÝ-col-mid{
+    padding-left:0px; 
+    padding-right:0px; 
+}
+.QUẢN-LÝ-col4-text{
+    margin-top:0px;
+}
+.textcenter-5{
+    text-align:center !important;
+}
+
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+.content-1-text{
+    text-align: left;
+    font-size: 28px;
+}
+.an{
+    display:none;
+}
+.QUẢN-LÝ{
+  height: auto;
+  padding-bottom:30px;
+  margin-left:0px;
+  padding-left:50px;
+  padding-right:50px;
+}
+.QUẢN-LÝ-col-4{
+    border:none;
+    padding:0px;
+    margin:0px;
+}
+.QUẢN-LÝ-col-3{
+    border:none;
+}
+.QUẢN-LÝ-col{
+    border:1px solid lightgrey;
+    padding-top:18px !important;
+}
+.QUẢN-LÝ-col-2{
+    border:1px solid lightgrey;
+}
+.QUẢN-LÝ-col-mid{
+    padding-left:0px; 
+    padding-right:0px; 
+}
+.textcenter-5{
+    text-align:center !important;
+}
+.QUẢN-LÝ-col4-text{
+    margin-top:0px;
+}
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.TINH-NANG-col8{
+padding-left: 10px; 
+padding-top:10px;
+height: auto;
+
+}   
+    .content-1-text{
+    text-align: left;
+    font-size: 35px;
+}
+.an{
+    display:none;
+}
+.QUẢN-LÝ{
+  height: auto;
+  padding-bottom:30px;
+  margin-left:0px;
+  padding-left:50px;
+  padding-right:50px;
+}
+.QUẢN-LÝ-col-4{
+    border:none;
+    padding: 0px;
+    margin:0px;
+}
+.QUẢN-LÝ-col-3{
+    border:none;
+}
+.QUẢN-LÝ-col{
+    border:1px solid lightgrey;
+    height: 320px;
+}
+.QUẢN-LÝ-col-2{
+    border:1px solid lightgrey;
+    padding-top:10px;
+}
+.QUẢN-LÝ-col-mid{
+    padding-left:0px; 
+    padding-right:0px;
+    padding-bottom:auto;
+}
+.textcenter-5{
+    text-align:center !important;
+}
+.QUẢN-LÝ-col4-text{
+    margin-top:0px;
+}
+
+ }

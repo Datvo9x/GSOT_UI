@@ -1,0 +1,240 @@
+    .col-right{
+        padding-left: 52px;
+        text-align: left;
+}
+/* TMS */
+    .TMS{
+        padding-top: 80px;
+        padding-bottom:85px;
+    }
+    .TMS-text1{
+        padding-left:0px;
+        padding-right:0px;
+        padding-top:30px;
+    }
+    .TMS-text2{
+        text-align: justify;
+        padding-right:42.5px;
+        padding-left: 0px;
+        text-indent: 19px;
+        margin-bottom: 30px;
+        letter-spacing: 0.3px;
+    }
+    .TMS-pic1{
+        height: 295px;
+        width: auto;
+        margin-top: 45px;
+    }
+    .TMS-pic2{
+        height: 365px;
+        width: auto;
+        position: absolute;
+        margin-left: -85px;
+        margin-top:15px;
+    }
+    .TMS-circle{
+        position: absolute;
+        z-index: -1;
+        margin-top: -72px;
+        margin-left:-60px;
+    }
+    .text-my-sb{
+        margin-bottom:0px;
+    }
+    .hr{
+        width: 55px;
+        height: 3px;
+        margin-top:12px;
+        margin-bottom:12px;
+        margin-left:0px;
+    }
+    .col-left{
+        padding-left:120px;
+    }
+    /* CMS */
+    .CMS{
+        padding-top: 30px;
+        padding-bottom: 40px;
+        background-color: #eaeaea;
+    }
+    .CMS-text-1{
+        margin-bottom:10px;
+    }
+    .CMS-text-2{
+        text-indent: 0px;
+        padding-right:50px;
+        text-align:justify;
+        margin-bottom:0px;
+        
+    }
+    .CMS-img{
+        width:100%;
+    }
+    .col-left-2{
+        padding-left:35px;
+    }
+    /* TRANG-THÔNG-TIN */
+    .TRANG-THÔNG-TIN{
+        padding-top: 45px;
+        padding-bottom: 30px;
+    }
+    .TRANG-THÔNG-TIN-text1{
+        padding-left:0px;
+        letter-spacing: 0.7px;
+    }
+    .TRANG-THÔNG-TIN-colpic{
+        text-align:right;
+    }
+    .TRANG-THÔNG-TIN-pic{
+        width: 605px;
+        margin-top:-400px;
+        margin-right:25px;
+    }
+    .TRANG-THÔNG-TIN-text2{
+        text-align: justify;
+        line-height: 20.64px;
+        padding-right: 100px;
+        text-indent: 19px;
+    }
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media screen and (max-width: 575.98px) { 
+        .col-right{
+        padding-left: 20px;
+}
+ .TMS{
+        padding-top: 10px;
+    }
+.col-right-pic{
+    margin-left:50px;
+}
+.col-left{
+    padding-left:20px;
+}
+.col-left-2{
+    padding-left:0px;
+}
+    .TMS-text1{
+        padding-left:0px;
+    }
+    .TMS-pic1{
+        height: 185px;
+    }
+    .TMS-pic2{
+        height: 250px;
+    }
+    .TMS-circle{
+        width: 250px;
+    }
+    .TMS-text2{
+        padding-right: 0px !important;
+    }
+    .CMS-text-2{
+        padding-right:0px;
+    }
+    .TRANG-THÔNG-TIN-text1{
+        padding-left:0px;
+    }
+    .TRANG-THÔNG-TIN-text2{
+        padding-right: 0px;
+    }
+
+    .TRANG-THÔNG-TIN-pic{
+        margin-top:0px;
+        margin-left: 0px;
+        width:100%;
+    }
+    .TRANG-THÔNG-TIN-colpic{
+        text-align:right;
+        margin-top:0px;
+        margin-right:25px;
+    }
+    }
+/* // Small devices (landscape phones, 576px and up) */
+@media screen and (min-width: 576px) and (max-width: 767.98px) { 
+    .TMS-text1{
+        padding-left:30px ;
+    }
+     .TMS{
+        padding-top: 10px;
+    }
+            .col-right{
+        padding-left: 20px;
+}
+.col-right-pic{
+    margin-left:50px;
+}
+.col-left{
+    padding-left:20px;
+}
+.col-left-2{
+    padding-left:0px;
+}
+    .CMS-img{
+    text-align: center;
+    width: auto;
+    }
+    .TRANG-THÔNG-TIN-pic{
+        width: 100%;
+        margin-top: 0px !important;
+    }
+    .TRANG-THÔNG-TIN-text1{
+    padding-left:0px;
+    }
+    .TRANG-THÔNG-TIN-text2{
+        padding-right: 30px;
+    }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) and (max-width: 991.98px) { 
+            .col-right{
+        padding-left: 40px;
+}
+ .TMS{
+        padding-top: 50px;
+    }
+.col-left{
+    padding-left:20px;
+}
+.col-left-2{
+    padding-left:0px;
+}
+    .TMS-text1{
+        padding-left:30px;
+    }
+    .TMS-pic1{
+        height: 225px;
+    }
+    .TMS-pic2{
+        height: 285px;
+    }
+    .TMS-circle{
+        width: 280px;
+    }
+    .CMS-img{
+        text-align: center;
+        width: 100%;
+    }
+    .CMS-text-2{
+        padding-right:0px;
+    }
+    .TRANG-THÔNG-TIN-text1{
+        padding-left:30px;
+    }
+    .TRANG-THÔNG-TIN-text2{
+        padding-right: 30px;
+    }
+    .TRANG-THÔNG-TIN-colpic{
+        text-align:right;   
+    } 
+    .TRANG-THÔNG-TIN-pic{
+            width: 60%;
+            margin-right: 0px;
+
+    }
+}
+/* // Large devices (desktops, 992px and up) */
+@media screen and (min-width: 992px) and (max-width: 1199.98px) { 
+}
+

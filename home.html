@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--bootstrap-->
+    <link rel="stylesheet" href="bootstrap-4.2.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="fontawesome-free-5.14.0-web/css/all.css">
+    <!-- slide -->
+    <link rel="stylesheet" href="OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css">
+    <link rel="stylesheet" href="OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css">
+    <!-- css -->
+    <link rel="stylesheet" href="css/style-quynh.css">
+    <link rel="stylesheet" href="css/style2.css">
+    <link rel="stylesheet" href="css/media_style-quynh.css">
+    <link rel="stylesheet" href="css/font.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg fixed-top navbar-fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="home.html">
+                    <img width="100px" height="50px" src="https://gsotgroup.vn/wp-content/uploads/2018/10/logo.png"
+                        data-src="https://gsotgroup.vn/wp-content/uploads/2018/10/logo.png"
+                        class="header_logo header-logo lazyloaded" alt="GSOTGROUP" width="100%">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+                    aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-bars"></i>
+                </button>
+
+                <div class=" collapse navbar-collapse justify-content-end" id="navbarTogglerDemo02">
+                    <ul class="navbar-nav ml-auto mt-2 mt-lg-0 nav-mobile">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="gioithieu.html">GIỚI THIỆU</a>
+                            <div class="border-nav border-light-nav1"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_3.html">DỊCH VỤ</a>
+                            <div class="border-nav border-light-nav2"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_5.html">DỰ ÁN</a>
+                            <div class="border-nav border-light-nav3"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_7.html">BẢNG TIN</a>
+                            <div class="border-nav border-light-nav4"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_10.html">TUYỂN DỤNG</a>
+                            <div class="border-nav border-light-nav5"></div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="trang_12.html">LIÊN HỆ</a>
+                            <div class="border-nav border-light-nav6"></div>
+                        </li>
+                        <li class="nav-item search d-flex">
+                            <div class="dropdown">
+                                <button onclick="myFunction()" class="dropbtn"><i class="fa fa-search"></i></button>
+                                <div id="myDropdown" class="dropdown-content">
+                                    <div class="d-flex flex-row">
+                                        <input type="text" placeholder="Search.." name="myInput" id="myInput"
+                                            onkeyup="filterFunction()">
+                                        <button class="dropdown-button" name="find" id="find"
+                                            onclick="myFunction()"><img
+                                                src="img/trangchu/xuat file2-25-25.png"></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <a href="">
+                                                <i class="fas fa-search icon-search"></i></a>
+                                            <form class="form-search">
+                                                <input type="text">
+                                                <div style="border: 1px solid white; width: 200px;"></div>
+                                            </form> -->
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-wrap="true"
+            data-interval="true">
+            <!-- <div class="border-light-right d-sm-block d-none"></div> -->
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"><span>0</span></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"><span>1</span></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"><span>2</span></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"><span>3</span></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="4"><span>4</span></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item item active">
+                    <img class="d-block w-100" src="img/bannerr.png" width="100%" alt="First slide">
+                </div>
+                <div class="carousel-item item">
+                    <img class="d-block w-100" src="img/WEB SITE11-5.png" width="100%" alt="Second slide">
+                </div>
+                <div class="carousel-item item">
+                    <img class="d-block w-100" src="img/WEB SITE11-7.png" width="100%" alt="Third slide">
+                </div>
+                <div class="carousel-item item">
+                    <img class="d-block w-100" src="img/WEB SITE11-10.png" width="100%" alt="Third slide">
+                </div>
+                <div class="carousel-item item">
+                    <img class="d-block w-100" src="img/bannerr.png" width="100%" alt="Third slide">
+                </div>
+            </div>
+            <!-- <a class="carousel-control-prev prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a> -->
+        </div>
+        <div class="company-intro">
+            <div class="container">
+                <div class="row" style="padding-bottom: 23px">
+                    <div class="col-lg-5 col-md-5 d-flex flex-column">
+                        <div class="d-flex flex-wrap justify-content-lg-between justify-content-sm-around">
+                            <div class="img12">
+                                <span class="img1">
+                                    <img src="img/trangchu/xuat file2-12.png" width="100%" alt="">
+                                </span>
+                                <span class="img2">
+                                    <img src="img/trangchu/xuat file2-13.png" width="100%" alt="">
+                                </span>
+                            </div>
+                            <span class="img3 pt-3 d-flex flex-row">
+                                <img src="img/trangchu/xuat file2-14.png" width="100%" alt="">
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-lg-7 col-md-7 ">
+                        <div class="company-intro-content">
+                            <span class="company-intro-title font-bold">VỀ CHÚNG TÔI</span>
+                            <p class="company-intro-des">Là công ty chuyên tư vấn, xây dựng và triển khai các giải pháp
+                                quản lý
+                                thông minh bằng phần
+                                mềm trong toàn bộ hoạt động
+                                quản lý vận hành, sản xuất, kinh doanh của doanh nghiệp. Các giải pháp của chúng tôi
+                                được
+                                xây dựng dựa trên các công
+                                nghệ hiện đại nhất thế giới, phú hợp với từng khách hàng cụ thể
+                            </p>
+                            <div class="btn-more float-lg-right">
+                                <a href="gioithieu.html" class="d-flex">
+                                    <img src="img/trangchu/xuat file2-25-25.png" alt="">
+                                    <div class="btn-text">XEM THÊM</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dot-mid"></div>
+            </div>
+        </div>
+        <div class="problem container position-relative">
+            <div class="block-right"></div>
+            <div class="row">
+                <div class="col-lg-4 col-md-12 pr-46">
+                    <div class="prob-img1 flex-column d-lg-flex d-md-none">
+                        <img src="img/trangchu/xuat file2-20.png" alt="">
+                    </div>
+                    <div class="text-center">
+                        <span class="problem-title font-bold d-md-block d-lg-none pb-4">VẤN ĐỀ DOANH NGHIỆP ĐANG GẶP
+                            PHẢI</span>
+                    </div>
+                </div>
+                <div class="prob-col col-lg-8 col-md-12">
+                    <div id="prob-slider">
+                        <div class="owl-carousel owl-theme">
+                            <div class="ql">
+                                <div class="card prob-card card-gradient">
+                                    <div class="prob-img text-center ml-auto mr-auto">
+                                        <img src="img/trangchu/xuat file2-21.png" class="imgs">
+                                        <img src="img/trangchu/quanlythucong.png" class="imgs-hover" alt="">
+                                    </div>
+                                    <span class="text-center font-semibold" style="color:var(--orange);">QUẢN
+                                        LÍ THỦ CÔNG
+                                    </span>
+                                    <div class="border-light"></div>
+                                    <span class="card-des">
+                                        Hồ sơ, sổ sách của doanh nghiệp đang được quản lý một cách thủ công hoặc thông
+                                        qua các công cụ
+                                        quản lý đơn giản như MS Office => Không phát huy được tối đa năng suất làm việc
+                                        nhân viên.
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="ql">
+                                <div class="card prob-card card-gradient">
+                                    <div class="prob-img text-center ml-auto mr-auto">
+                                        <img src="img/trangchu/xuat file2-25-22.png" class="imgs">
+                                        <img src="img/trangchu/kiemsoat.png" class="imgs-hover">
+                                    </div>
+                                    <span class="text-center font-semibold" style="color:var(--orange)">KIỂM
+                                        SOÁT CHƯA TỐT
+                                    </span>
+                                    <div class="border-light"></div>
+                                    <span class="card-des">
+                                        Công tác đánh giá hoạt động kinh doanh của doanh nghiệp chưa thật sự tốt, không
+                                        chủ động kiểm soát được doanh nghiệp mọi lúc, mọi nơi => Gây lãng phí về thời
+                                        gian và tiền bạc.
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="ql">
+                                <div class="card prob-card card-gradient">
+                                    <div class="prob-img text-center ml-auto mr-auto">
+                                        <img src="img/trangchu/khongthoaman.png" class="imgs-hover" alt="">
+                                        <img src="img/trangchu/xuat file2-23.png" class="imgs">
+                                    </div>
+                                    <span class="text-center font-semibold" style="color:var(--orange)">KHÔNG
+                                        THỎA MÃN
+                                    </span>
+                                    <div class="border-light"></div>
+                                    <span class="card-des">
+                                        Doanh nghiệp không thỏa mãn với các chức năng, sự tùy biến và cảm thấy không phù
+                                        hợp của các
+                                        phần mềm đóng gói ngoài thị trường. => Và anh chị cần điều gì đó cho riêng mình.
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="software container position-relative">
+            <div class="dot-left"></div>
+            <div class="row">
+                <div class="block-left"></div>
+                <div class="col-lg-7 col-md-12 padr-107">
+                    <div class="mobiles-title mt-4 text-center d-md-block d-lg-none">
+                        <span class="mobile-title font-bold pt-3">ANH CHỊ MONG MUỐN MỘT PHẦN MỀM ?</span>
+                    </div>
+                    <div class="row padl-123">
+                        <div class="col-md-6 pl-0 col-left">
+                            <div class="card">
+                                <div class="soft-img text-center ">
+                                    <img src="img/trangchu/xuat file2-26.png">
+                                </div>
+                                <p>Quản lý doanh nghiệp, chặt chẽ, hiệu quả mọi lúc, mọi nơi</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 pl-0 col-left">
+                            <div class="card">
+                                <div class="soft-img text-center">
+                                    <img src="img/trangchu/xuat file2-27.png">
+                                </div>
+                                <p>Tăng tối đa năng suất làm việc của đội ngũ nhân viên trong công ty</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row padl-123">
+                        <div class="col-md-6 pl-0 col-left">
+                            <div class="card">
+                                <div class="soft-img text-center">
+                                    <img src="img/trangchu/xuat file2-28.png">
+                                </div>
+                                <p>Tiết kiệm chi phí vận hành doanh nghiệp hàng năm, tránh gây thất thoát.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 pl-0 col-left">
+                            <div class="card pl-3 pr-2">
+                                <div class="soft-img text-center">
+                                    <img src="img/trangchu/xuat file2-29.png">
+                                </div>
+                                <p>Tăng trưởng doanh thu và lợi nhuận tối đa với các nguồn lực hiện có</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="soft-icon p-0">
+                        <div class="btn-more1 ml-auto p-0" routerLink="/gioithieu">
+                            <img class="img-more" src="img/trangchu/xuat file2-25-25.png" alt="">
+                            <span class="more-text">XEM THÊM</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-12 col-right">
+                    <div class="software-img d-flex flex-column ">
+                        <div class="d-flex flex-row justify-content">
+                            <div class="gallery position-relative d-lg-flex flex-column d-md-none"
+                                style="margin: 0 8.5px">
+                                <!-- <span class="text1">Anh chị</span>
+                                <span class="text2">MONG MUỐN</span>
+                                <span class="text3">MỘT PHẦN MỀM</span> -->
+                                <div class="border-light-left d-lg-block d-none"></div>
+                                <img src="img/trangchu/xuat file2-30.png" width="100%" alt="">
+                            </div>
+
+                            <div class="gallery d-lg-flex flex-column d-md-none" style="margin: 0 8.5px">
+                                <img src="img/trangchu/xuat file2-31.png" width="100%" alt="">
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row justify-content-around" style="margin-top: 16px;">
+                            <div class="gallery d-lg-flex flex-column d-md-none ">
+                                <img src="img/trangchu/xuat file2-32.png" width="100%" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="company-help">
+            <div class="container">
+                <div class="row ">
+                    <div class="m-auto p-3">
+                        <p class="font-bold text-center helps">GSOT SẼ GIÚP ANH CHỊ</p>
+                        <div class="m-auto" style="border: 2px solid white; width: 70px;">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6 text-center d-lg-block d-none">
+                        <p class="help-title">XÂY DỰNG HỆ THỐNG PHẦN MỀM THÔNG MINH</p>
+                    </div>
+                    <div class="col-6 text-center d-lg-block d-none">
+                        <p class="help-title">XÂY DỰNG HỆ THỐNG PHẦN MỀM THÔNG MINH</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-12 pr-27">
+                        <div class="row m-0">
+                            <div class="col-lg-4 col-12 p-6">
+                                <div class="help-text ">
+                                    <div class="left-border"></div>
+                                    <p class="help-des">Xây dựng cho riêng anh chị một Hệ thống phần mềm thông minh. Đáp
+                                        ứng
+                                        đầy
+                                        đủ các yêu cầu
+                                        về
+                                        mặt kỹ thuật, để giải quyết
+                                        các khó khăn cho doanh nghiệp của mình.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-12 p-6">
+                                <div class="help-text">
+                                    <p class="help-des">Xây dựng cho riêng anh chị một Hệ thống phần mềm thông minh. Đáp
+                                        ứng
+                                        đầy
+                                        đủ các yêu cầu
+                                        về
+                                        mặt kỹ
+                                        thuật, để giải quyết
+                                        các khó khăn cho doanh nghiệp của mình.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-12 p-6">
+                                <div class="help-text">
+                                    <p class="help-des">Các hệ thống phần mềm GSOT được xây dựng tập trung vào các yếu
+                                        tố
+                                        chính:
+                                        Tích hợp toàn
+                                        diện,
+                                        dễ dàng sử dụng, phù hợp
+                                        với doanh nghiệp Việt và chi phí hợp lý.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12 pl-27">
+                        <div class=" row m-0">
+                            <div class="col-lg-4 col-12 p-6">
+                                <div class="help-text">
+                                    <p class="help-des">Tư vấn sử dụng một hệ thống cơ sở hạ tầng phù hợp cho Hệ thống
+                                        phần
+                                        mềm
+                                        của doanh nghiệp.
+                                        Điều này làm giảm đáng kể
+                                        chi phí vận hành hàng năm mà anh chị phải trả
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-12 p-6">
+                                <div class="help-text ">
+                                    <p class="help-des">Tư vấn và đạo tạo cho đội ngũ nhân viên của anh chị về mặt kỹ
+                                        thuật
+                                        cách
+                                        sử dụng Hệ thống
+                                        phần mềm một cách dễ dàng
+                                        nhất. Nhằm tiết kiệm thời gian vận hành sau này.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-12 p-6">
+                                <div class="help-text">
+                                    <p class="help-des">Hỗ trợ tư vấn cho doanh nghiệp anh chị các thiết bị phần cứng
+                                        phù
+                                        hợp;
+                                        Nhằm gia tăng hiệu
+                                        suất làm việc của các thiết bị
+                                        cũng như tối ưu thời gian sử dụng lâu dài
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="company-choice container">
+            <div class="tieude justify-content-center text-center" style="color: var(--orange3);">
+                <span class="choice-title">Tại sao <span class="cus-title">PHẢI
+                        LÀ</span>
+                </span>
+                <img src="img/trangchu/logo-gsot-taisaophaila.png" width="185px" height="85px"
+                    style="margin-top: -15px">
+            </div>
+
+            <div id="choice-slider">
+                <div class="owl-carousel owl-theme slider">
+                    <div class="gh">
+                        <div class="card card-gradient">
+                            <div class="company-icon ml-auto mr-auto">
+                                <img src="img/trangchu/xuat file2-33.png" class="imgs" alt="">
+                                <img src="img/trangchu/thietke.png" class="imgs-hover" alt="">
+                            </div>
+                            <p class="text-center" style="line-height: 18.02px;">THIẾT KẾ
+                                RIÊNG
+                                BIỆT</p>
+                            <div class="border-light-choice"></div>
+                            <span class="desc">
+                                Hệ thống phần mềm của được thiết kế và xây dựng theo đặc
+                                điểm,
+                                nghiệp vụ và quy trình
+                                riêng
+                                đặc
+                                biệt phù hợp đối với
+                                từng lĩnh vực, mô hình kinh doanh.
+                            </span>
+                        </div>
+                    </div>
+                    <div class="gh">
+                        <div class="card card-gradient">
+                            <div class="company-icon ml-auto mr-auto">
+                                <img src="img/trangchu/caitienlientuc.png" class="imgs">
+                                <img src="img/trangchu/xuat file2-34.png" class="imgs-hover" alt="">
+                            </div>
+                            <p class="text-center" style="line-height: 18.02px;">CẢI
+                                TIẾN LIÊN TỤC</p>
+                            <div class="border-light-choice"></div>
+                            <span class="desc">
+                                Các Hệ thống phần mềm được GSOT xây dựng và vận hành, hỗ
+                                trợ cải tiến theo công nghệ và
+                                tình
+                                hình phát triển cũng như
+                                thay đổi của doanh nghiệp trong tương lai.
+                            </span>
+                        </div>
+                    </div>
+                    <div class="gh">
+                        <div class="card card-gradient">
+                            <div class="company-icon ml-auto mr-auto">
+                                <img src="img/trangchu/xuat file2-35.png" class="imgs">
+                                <img src="img/trangchu/doinguchuyennghiep.png" class="imgs-hover" alt="">
+                            </div>
+                            <p class="text-center" style="line-height: 18.02px;">ĐỘI NGŨ
+                                CHUYÊN NGHIỆP</p>
+                            <div class="border-light-choice"></div>
+                            <span class="desc">
+                                Đội ngũ của GSOT được đào tạo chuyên nghiệp, với nhiều năm
+                                kinh nghiệm, đầy nhiệt huyết
+                                và
+                                trách
+                                nhiệm, luôn sẵn sàng tư
+                                vấn và hỗ trợ anh chị 24/7.
+                            </span>
+                        </div>
+                    </div>
+                    <div class="gh">
+                        <div class="card card-gradient">
+                            <div class="company-icon ml-auto mr-auto">
+                                <img src="img/trangchu/xuat file2-33.png" class="imgs" alt="">
+                                <img src="img/trangchu/thietke.png" class="imgs-hover" alt="">
+                            </div>
+                            <p class="text-center" style="line-height: 18.02px;">THIẾT KẾ
+                                RIÊNG
+                                BIỆT</p>
+                            <div class="border-light-choice"></div>
+                            <span class="desc">
+                                Hệ thống phần mềm của được thiết kế và xây dựng theo đặc
+                                điểm,
+                                nghiệp vụ và quy trình
+                                riêng
+                                đặc
+                                biệt phù hợp đối với
+                                từng lĩnh vực, mô hình kinh doanh.
+                            </span>
+                        </div>
+                    </div>
+                    <div class="gh">
+                        <div class="card card-gradient">
+                            <div class="company-icon ml-auto mr-auto">
+                                <img src="img/trangchu/caitienlientuc.png" class="imgs">
+                                <img src="img/trangchu/xuat file2-34.png" class="imgs-hover" alt="">
+                            </div>
+                            <p class="text-center" style="line-height: 18.02px;">CẢI
+                                TIẾN LIÊN TỤC</p>
+                            <div class="border-light-choice"></div>
+                            <span class="desc">
+                                Các Hệ thống phần mềm được GSOT xây dựng và vận hành, hỗ
+                                trợ cải tiến theo công nghệ và
+                                tình
+                                hình phát triển cũng như
+                                thay đổi của doanh nghiệp trong tương lai.
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="company-cus">
+            <div class="container">
+                <div class="dot-mid"></div>
+                <div class="text-center" style="margin-top: 46px">
+                    <span class="cus-title">KHÁCH HÀNG CỦA GSOT</span>
+                    <p class="borders"></p>
+                </div>
+                <div class="cus-flex mt-3 img-gray">
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                    <div class="flex-item">
+                        <img src="https://img.icons8.com/color/480/000000/coca-cola.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 pr-0">
+                        <div class="logo p-2">
+                            <a href="home.html">
+                                <img src="img/Img/logo-footer.png" width="180" height="90" alt="">
+                            </a>
+                        </div>
+                        <div class="d-flex flex-column">
+                            <h6><span class="font-bold">CÔNG TY CỔ PHẦN GIẢI PHÁP THÔNG MINH XANH</span></h6>
+                            <span>81/15/18 Huỳnh Văn Nghệ, P.12, Q., Tp. HCM</span>
+                            <span>Văn phòng: 127/2 Hoàng Hoa Thám, P. 13, Q. Tân Bình, Tp.HCM</span>
+                            <span><b>Điện thoại:</b> (028) 6286 1906 - Mobile: 0966662580</span>
+                            <span><b>Email:</b> info@gsotgroup.vn MST: 0314567061
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 pt-5">
+                        <h5 class="mt-3 font-bold pl-3" style="color: var(--yellow)">LIÊN KẾT</h5>
+                        <div class="link mt-3 pl-3 pl-3">
+                            <div class="row">
+                                <div class="col-md-6 col-6">
+                                    <a href="">Facebook</a>
+                                </div>
+                                <div class="col-md-6 col-6">
+                                    <a href="">Behance</a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 col-6">
+                                    <a href="">Instagram</a>
+                                </div>
+                                <div class="col-md-6 col-6">
+                                    <a href="">Pinterest</a>
+                                </div>
+                            </div>
+                            <div class="dot-footer"></div>
+                            <div class="d-flex flex-column mt-3">
+                                <span>© Copyright 2020.</span>
+                                <span>All Right Reserved by GSOT</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4" style="margin-top: 35px">
+                        <a
+                            href="https://www.google.com/maps/place/C%C3%B4ng+ty+ph%E1%BA%A7n+m%E1%BB%81m+GSOT/@10.8024744,106.6463747,19.81z/data=!4m5!3m4!1s0x31752974fd410c2b:0xd7dd5f74c0918d3d!8m2!3d10.8023659!4d106.6464651?hl=vi-VN">
+                            <img class="map_gsot" src="img/bando.png" width="374" height="192" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="bootstrap-4.2.1/dist/js/bootstrap.min.js"></script>
+    <!-- <script src="https://kit.fontawesome.com/yourcode.js"></script>/ -->
+    <script src="OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
+    <script src="js/slider.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

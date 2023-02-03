@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tuyển dụng - Công ty cổ phần giải pháp thông minh xanh GSOT</title>
+    <link rel="shortcut icon" type="image/png" href="img/logo.ico" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="bootstrap-4.2.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="fontawesome-free-5.14.0-web/css/all.min.css">
+    <!-- slide -->
+    <link rel="stylesheet" href="OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css">
+    <link rel="stylesheet" href="OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css">
+    <!-- css -->
+    <link rel="stylesheet" href="css/font.css">
+    <link rel="stylesheet" href="css/style-thao.css">
+    <link rel="stylesheet" href="css/style10.css">
+</head>
+
+<body>
+    <div class="content">
+        <header>
+            <nav class="navbar navbar-expand-lg fixed-top navbar-fixed-top">
+                <div class="container-1">
+                    <a class="navbar-brand" href="home.html">
+                        <img width="100px" height="50px" src="https://gsotgroup.vn/wp-content/uploads/2018/10/logo.png"
+                            data-src="https://gsotgroup.vn/wp-content/uploads/2018/10/logo.png"
+                            class="header_logo header-logo lazyloaded" alt="GSOTGROUP" width="100%" />
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                        <ul class="navbar-nav ml-auto mt-2 mt-lg-0 nav-mobile">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="gioithieu.html">GIỚI THIỆU</a>
+                                <div class="border-nav border-light-nav1"></div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="trang_3.html">DỊCH VỤ</a>
+                                <div class="border-nav border-light-nav2"></div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="trang_5.html">DỰ ÁN</a>
+                                <div class="border-nav border-light-nav3"></div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="trang_7.html">BẢNG TIN</a>
+                                <div class="border-nav border-light-nav4"></div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="trang_10.html">TUYỂN DỤNG</a>
+                                <div class="border-nav border-light-nav5"></div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="trang_12.html">LIÊN HỆ</a>
+                                <div class="border-nav border-light-nav6"></div>
+                            </li>
+                            <li class="nav-item" style="padding-top:2px;padding-left:5px">
+                                <div class="dropdown">
+                                    <button onclick="myFunction()" class="dropbtn"><i class="fa fa-search"></i></button>
+                                    <div id="myDropdown" class="dropdown-content">
+                                        <div class="d-flex flex-row">
+                                            <input type="text" placeholder="Search.." name="myInput" id="myInput"
+                                                onkeyup="filterFunction()">
+                                            <button class="dropdown-button" name="find" id="find"
+                                                onclick="myFunction()"><img src="img/Img/muiten.png"></button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <main>
+            <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"><span>0</span></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"><span>1</span></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"><span>2</span></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="3"><span>3</span></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="4"><span>4</span></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="img/bannerr.png" class="d-block w-100" alt="..." width="100%">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="img/WEB SITE11-5.png" class="d-block w-100" alt="..." width="100%">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="img/WEB SITE11-7.png" class="d-block w-100" alt="..." width="100%">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="img/WEB SITE11-10.png" class="d-block w-100" alt="..." width="100%">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="img/bannerr.png" class="d-block w-100" alt="..." width="100%">
+                    </div>
+                </div>
+            </div>
+            <div class="btn-group-vertical" role="group" aria-label="Basic example"
+                style="position: absolute;left:2% ;top:61%;z-index: 10;">
+                <button class="btn" style="color:black"><i class="fa fa-phone"></i></button>
+                <button class="btn" style="color:black"><i class="fa fa-user"></i></button>
+                <p style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</p>
+                <button class="btn" style="color:black"><i class="fab fa-facebook-f"></i></button>
+                <button class="btn" style="color:black"><i class="fab fa-instagram"></i></button>
+                <button class="btn" style="color:black"><i class="fab fa-behance"></i></button>
+                <p style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</p>
+            </div>
+            <section class="content1">
+                <div class="container">
+                    <p class="mb15"><span class="re16">Trang chủ - </span><span class="me16 color-orange">Tuyển dụng</span></p>
+                    <div class="hr-orange1">
+                        <div class="hr-orange2"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12 col-12 map">
+                            <img src="img/img10/nenchu.png" width="610px" alt="">
+                            <h1 class="text-title-orange-shadow">HÃY CÙNG GSOT THAY ĐỔI THẾ GIỚI</h1>
+                            <div class="content-text mb73">
+                                <img src="img/img10/phay1.png" class="phay1" alt=""><br>
+                                <p class="text-content">
+                                    Bằng một khát vọng không ngừng nghỉ, GSOT phấn đấu trở thành Công ty phát triển phần
+                                    mềm
+                                    <span class="text-bold">thông minh</span> có <span class="text-bold">uy tín</span>
+                                    và vị thế <span class="text-bold">hàng đầu</span> tại Việt Nam và khu vực Châu Á.
+                                </p>
+                                <p class="text-content">
+                                    Để làm được điều đó, GSOT đang cần những người bạn đồng hành. Nếu bạn thật sự là
+                                    người có đam mê, có khát khao được thể hiện bản thân mình qua các dự án lớn của GSOT
+                                    và
+                                    đối tác, cũng như khát khao được làm nên những phần mềm thông minh có ích cộng đồng…
+                                </p>
+                                <p class="text-content">GSOT luôn sẵn sàng chào đón bạn!</p><br> <img class="phay2"
+                                    src="img/img10/phay2.png" alt="">
+                            </div>
+
+                        </div>
+                        <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 col-12">
+                            <img src="img/img10/hinh_content1.png" class="image" alt="">
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="content2">
+                <div class="container mt50">
+                    <div class="row">
+                        <div class="col-md-9 pr74">
+                            <p class="bo20 color-orange">VỊ TRÍ TUYỂN DỤNG</p>
+                            <div class="hr-orange1">
+                                <div class="hr-orange2"></div>
+                            </div>
+                            <div class="row mb20">
+                                <div class="col-md-7">
+                                    <input type="search" name="" id="" placeholder="Nhập từ khóa tìm kiếm">
+                                </div>
+                                <div class="col-md p-0 text-center">
+                                    <select name="" id="">
+                                        <option value="" selected disabled>Chọn Tỉnh/Thành</option>
+                                        <option>text1</option>
+                                        <option>text2</option>
+                                    </select>
+                                </div>
+                                <div class="col-md text-right">
+                                    <button class="btn" type="submit">Tìm việc <i class="fa fa-search"
+                                            aria-hidden="true"></i></button>
+                                </div>
+                            </div>
+                            <div class="row mt-2">
+                                <div class="col-md-3 t-center">
+                                    <p class="text-content1">DOT NET DEVELOPER</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <p class="text-content2"><i class="fas fa-map-marker-alt icon"></i> Hồ Chí Minh</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <p class="text-content3 ss16">03/08/2008</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <a href="trang_11.html"><button class="btn se" type="submit">Apply</button></a>
+                                </div>
+                                <div class="hr_grey"></div>
+                            </div>
+                            <div class="row mt-2">
+                                <div class="col-md-3 t-center">
+                                    <p class="text-content1">NHÂN VIÊN KẾ TOÁN</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <p class="text-content2"><i class="fas fa-map-marker-alt icon"></i> Hồ Chí Minh</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <p class="text-content3 ss16">03/08/2008</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <a href="trang_11.html"><button class="btn se" type="submit">Apply</button></a>
+                                </div>
+                                <div class="hr_grey"></div>
+                            </div>
+                            <div class="row mt-2">
+                                <div class="col-md-3 t-center">
+                                    <p class="text-content1">DOT NET DEVELOPER</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <p class="text-content2"><i class="fas fa-map-marker-alt icon"></i> Hồ Chí Minh</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <p class="text-content3 ss16">03/08/2008</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <a href="trang_11.html"><button class="btn se" type="submit">Apply</button></a>
+                                </div>
+                                <div class="hr_grey"></div>
+                            </div>
+                            <div class="row mt-2">
+                                <div class="col-md-3 t-center">
+                                    <p class="text-content1">NHÂN VIÊN KẾ TOÁN</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <p class="text-content2"><i class="fas fa-map-marker-alt icon"></i> Hồ Chí Minh</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <p class="text-content3 mr30 ss16">03/08/2008</p>
+                                </div>
+                                <div class="col-md-3 text-right">
+                                    <a href="trang_11.html"><button class="btn se" type="submit">Apply</button></a>
+                                </div>
+                                <div class="hr_grey"></div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 pl8 mt20">
+                            <p class="text-title-blue">YÊU CẦU HỒ SƠ</p>
+                            <div class="hr-orange3">
+                                <div class="hr-orange4"></div>
+                            </div>
+                            <div class="yeucau">
+                                <p><i class="far fa-file-alt icon1 mr5"></i>BẢN SAO THÔNG TIN ỨNG VIÊN - TẢI VỀ</p>
+                            </div>
+                            <div class="yeucau">
+                                <p><i class="fas fa-envelope icon1"></i>BẰNG CHUYÊN MÔN (CHỨNG THỰC)</p>
+                            </div>
+                            <div class="yeucau">
+                                <p><i class="fas fa-user icon1"></i>CHỨNG THỰC CHỨNG CHỈ LIÊN QUAN</p>
+                            </div>
+                            <div class="yeucau">
+                                <p><i class="far fa-file-alt icon1"></i>BẢN SAO HỒ SƠ - LÝ LỊCH ỨNG VIÊN</p>
+                            </div>
+                            <div class="yeucau">
+                                <p><i class="fas fa-user icon1"></i>CHỨNG MINH NHÂN DÂN, HỘ KHẨU</p>
+                            </div>
+                            <div class="yeucau">
+                                <p><i class="far fa-file-alt icon1"></i>THƯ DỰ TUYỂN</p>
+                            </div>
+                            <div class="yeucau">
+                                <p><i class="fas fa-user icon1"></i>ẢNH THẺ (3x4)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <div class="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-5 pr-0">
+                            <div class="logo p-2">
+                                <a href="home.html">
+                                    <img src="img/Img/logo-footer.png" width="180" height="90" alt="">
+                                </a>
+                            </div>
+                            <div class="d-flex flex-column">
+                                <h6><span class="font-bold">CÔNG TY CỔ PHẦN GIẢI PHÁP THÔNG MINH XANH</span></h6>
+                                <span>81/15/18 Huỳnh Văn Nghệ, P.12, Q., Tp. HCM</span>
+                                <span>Văn phòng: 127/2 Hoàng Hoa Thám, P. 13, Q. Tân Bình, Tp.HCM</span>
+                                <span><b>Điện thoại:</b> (028) 6286 1906 - <b>Mobile:</b> 0966662580</span>
+                                <span><b>Email:</b> info@gsotgroup.vn <b style="margin-left: 38px;">MST:</b> 0314567061
+                                </span>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 pt-5">
+                            <h5 class="mt-3 font-bold pl-3" style="color: var(--yellow)">LIÊN KẾT</h5>
+                            <div class="link mt-3 pl-3 pl-3">
+                                <div class="row">
+                                    <div class="col-md-6 col-6">
+                                        <a href="">Facebook</a>
+                                    </div>
+                                    <div class="col-md-6 col-6">
+                                        <a href="">Behance</a>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6 col-6">
+                                        <a href="">Instagram</a>
+                                    </div>
+                                    <div class="col-md-6 col-6">
+                                        <a href="">Pinterest</a>
+                                    </div>
+                                </div>
+                                <div class="dot-footer"></div>
+                                <div class="d-flex flex-column mt-3">
+                                    <span>© Copyright 2020.</span>
+                                    <span>All Right Reserved by GSOT</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4" style="margin-top: 35px">
+                            <a
+                                href="https://www.google.com/maps/place/C%C3%B4ng+ty+ph%E1%BA%A7n+m%E1%BB%81m+GSOT/@10.8024744,106.6463747,19.81z/data=!4m5!3m4!1s0x31752974fd410c2b:0xd7dd5f74c0918d3d!8m2!3d10.8023659!4d106.6464651?hl=vi-VN">
+                                <img class="map_gsot" src="img/bando.png" width="374" height="192" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
